@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/producthunt",
+    "result": {"data":{"strapiArticles":{"id":"Articles_226","title":"Product Hunt","description":"发现最新、最受欢迎的手机App、网站、科技产品的资讯。","content":"Product Hunt – The best new products in tech. \nProduct Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.\n发现最新、最受欢迎的手机App、网站、科技产品等。","url":"https://www.producthunt.com/","author":null,"published_at":"2021-10-29T07:53:20.000Z","tags":[{"name":"资讯","slug":"news"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Product Hunt","slug":"producthunt"}},
+    "staticQueryHashes": ["63159454"]}

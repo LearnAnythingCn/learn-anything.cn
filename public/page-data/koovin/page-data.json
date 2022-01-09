@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/koovin",
+    "result": {"data":{"strapiArticles":{"id":"Articles_129","title":"库问搜索","description":"免费下载超过千万开源学术论文，涵盖宗教、哲学、社科、政治、法律、军事、艺术、历史、地理、IT、S生物医学、航空航天等各大领域。","content":"库问搜索免费提供超过千万开源学术论文资源检索和下载，涵盖宗教哲学、社会科学、政治法律、军事经济、文化教育、文学艺术、历史地理、IT信息、自然科学、生物医学、工业农业、航空航天等各大领域。","url":"http://www.koovin.com/","author":null,"published_at":"2021-10-19T11:55:43.000Z","tags":[{"name":"论文资料","slug":"paper-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"库问搜索","slug":"koovin"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/map-download",
+    "result": {"data":{"strapiArticles":{"id":"Articles_30","title":"地图下载","description":"国家自然资源部绘制，中国以及各省市区地图、世界地图、各大洲地图等，高清免费下载。","content":"高清中国地图、世界地图、各大洲地图等下载，包括中国地图249幅，世界地图79幅（七大洲），专题地图10幅（G20国家、长江经济带区域、京津冀都市圈、粤港澳大湾区、长江三角洲地区）。","url":"http://bzdt.ch.mnr.gov.cn/index.html","author":null,"published_at":"2021-09-18T05:16:33.000Z","tags":[{"name":"地图","slug":"map-info"},{"name":"数据查询","slug":"gov-cn-data"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"地图下载","slug":"map-download"}},
+    "staticQueryHashes": ["63159454"]}

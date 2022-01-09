@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/rankings-arwu",
+    "result": {"data":{"strapiArticles":{"id":"Articles_224","title":"世界大学学术排名","description":"查看 2003年 - 2021年 世界大学学术排名。","content":"软科世界大学学术排名（ShanghaiRanking's Academic Ranking of World Universities，简称ARWU）于2003年由上海交通大学世界一流大学研究中心首次发布，是世界范围内首个综合性的全球大学排名。2009年开始由软科发布并保留所有权利。软科世界大学学术排名是全球最具影响力和权威性的大学排名之一，在世界各地被广泛报导和大量引用，许多国家的政府和大学以ARWU为标准，制定战略目标和发展规划，采取各种举措来提升大学的国际竞争力。软科世界大学学术排名以评价方法的客观、透明和稳定著称，全部采用国际可比的客观指标和第三方数据，包括获诺贝尔奖和菲尔兹奖的校友和教师数、高被引科学家数、在《Nature》和《Science》上发表的论文数、被SCIE和SSCI收录的论文数、师均学术表现等。软科世界大学学术排名每年排名的全球大学超过2000所，发布最为领先的前1000所大学（[查看排名方法](https://www.shanghairanking.cn/methodology/arwu/2021?event=YXJ3dS91X21ldGhvZA)）。","url":"https://www.shanghairanking.cn/rankings/arwu/2021","author":null,"published_at":"2021-10-29T07:46:07.000Z","tags":[{"name":"留学","slug":"studying-abroad"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"世界大学学术排名","slug":"rankings-arwu"}},
+    "staticQueryHashes": ["63159454"]}

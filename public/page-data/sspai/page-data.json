@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/sspai",
+    "result": {"data":{"strapiArticles":{"id":"Articles_203","title":"少数派","description":"数码产品、软件、系统等工具的使用心得和介绍，帮助用户提升工作效率和生活品质。","content":"少数派 - 高效工作，品质生活\n少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。","url":"https://sspai.com/","author":null,"published_at":"2021-10-29T04:53:04.000Z","tags":[{"name":"资讯","slug":"news"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"少数派","slug":"sspai"}},
+    "staticQueryHashes": ["63159454"]}

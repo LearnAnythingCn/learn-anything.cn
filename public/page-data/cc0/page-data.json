@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/cc0",
+    "result": {"data":{"strapiArticles":{"id":"Articles_266","title":"CC零","description":"提供免费可商用高清图片下载，速度快。","content":"cc0图片网（cc0.cn） - 免费图片大全、可商业用途的图片素材网\n\nCC0.CN上的图片均可用在个人及商业用途的项目中。例如：网站、自媒体等应用配图，广告及宣传册印刷设计等均可免费使用，免除版权困扰...\n\n\n关键词：图片大全,免费图片,图片素材,cc0图片网,CC零图片网,cc0图库","url":"https://www.cc0.cn/","author":null,"published_at":"2021-10-31T10:05:07.000Z","tags":[{"name":"图库","slug":"gallery"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"CC零","slug":"cc0"}},
+    "staticQueryHashes": ["63159454"]}

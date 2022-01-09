@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/miniprogram-register",
+    "result": {"data":{"strapiArticles":{"id":"Articles_252","title":"小程序注册","description":"注册微信小程序。","content":"小程序是一种新的开放能力，可以在微信内被便捷地获取和传播，同时具有出色的使用体验。小程序开发者可在小程序内提供便捷、丰富的服务，如预订、商品购买、游戏、信息查询等。","url":"https://mp.weixin.qq.com/cgi-bin/wx","author":null,"published_at":"2021-10-31T04:20:56.000Z","tags":[{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"小程序注册","slug":"miniprogram-register"}},
+    "staticQueryHashes": ["63159454"]}

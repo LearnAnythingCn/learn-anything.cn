@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/yanetflix",
+    "result": {"data":{"strapiArticles":{"id":"Articles_124","title":"奈飞中文电影","description":"免费在线观看奈飞电影、电视剧、动漫、综艺，高清速度快！","content":"鸭奈飞电影[YaNetflix.com]是专注于为国内用户提供免费的奈飞电影，在这里您无需翻墙付费即可享受奈飞电影带来的视听体验","url":"https://yanetflix.com/","author":null,"published_at":"2021-10-19T10:10:38.000Z","tags":[{"name":"在线观看","slug":"online-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"奈飞中文电影","slug":"yanetflix"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/douban-book-top250",
+    "result": {"data":{"strapiArticles":{"id":"Articles_186","title":"图书TOP250","description":"豆瓣根据每本书读过的人数以及该书所得的评价等综合数据，通过算法分析产生了豆瓣读书 Top 250。","content":"豆瓣用户每天都在对“读过”的书进行“很差”到“力荐”的评价，豆瓣根据每本书读过的人数以及该书所得的评价等综合数据，通过算法分析产生了豆瓣读书 Top 250。","url":"https://book.douban.com/top250?icn=index-book250-all","author":null,"published_at":"2021-10-28T05:45:42.000Z","tags":[{"name":"书榜热评","slug":"book-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"图书TOP250","slug":"douban-book-top250"}},
+    "staticQueryHashes": ["63159454"]}

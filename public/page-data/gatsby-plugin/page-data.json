@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/gatsby-plugin",
+    "result": {"data":{"strapiArticles":{"id":"Articles_174","title":"Gatsby Plugins","description":"插件库，可查询、下载已共享的插件，直接用到Gatsby项目中。","content":"Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.\n插件库，可查询、下载已共享的插件，直接用到Gatsby项目中。","url":"https://www.gatsbyjs.com/plugins","author":null,"published_at":"2021-10-27T12:14:13.000Z","tags":[{"name":"Gatsby","slug":"gatsby"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Gatsby Plugins","slug":"gatsby-plugin"}},
+    "staticQueryHashes": ["63159454"]}

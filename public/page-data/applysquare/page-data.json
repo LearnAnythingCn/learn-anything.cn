@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/applysquare",
+    "result": {"data":{"strapiArticles":{"id":"Articles_216","title":"申请方","description":"提供从高考到就业期间的各种高等教育相关的工具，包含志愿提报、专业评测、专业排名、入学指南、留学等。","content":"申请方 - 规划你的未来 | 世界大学排名_大学专业介绍_高考志愿填报_学业百科\n\n申请方提供从高考到就业期间的各种高等教育相关的工具及数据库。包括高考报考志愿填报工具、专业测评工具、大学及专业排名介绍、大学入学新生指南、大学校园生活经验、留学招生项目、实习招聘信息等，各种帮助自我提高的学业资源信息及高效管理这些信息的管理工具。","url":"https://www.applysquare.com/","author":null,"published_at":"2021-10-29T07:12:44.000Z","tags":[{"name":"留学","slug":"studying-abroad"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"申请方","slug":"applysquare"}},
+    "staticQueryHashes": ["63159454"]}

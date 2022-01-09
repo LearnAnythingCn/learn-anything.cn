@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/ad-block",
+    "result": {"data":{"strapiArticles":{"id":"Articles_58","title":"AdBlock","description":"消除视频、网页上烦人的广告，提高浏览器速度，保护你的隐私。","content":"消除视频、网页上烦人的广告，提高浏览器速度，保护你的隐私。\n","url":"https://getadblock.com/zh_CN/","author":null,"published_at":"2021-09-22T02:08:38.000Z","tags":[{"name":"常用","slug":"common"},{"name":"软件","slug":"software"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"AdBlock","slug":"ad-block"}},
+    "staticQueryHashes": ["63159454"]}

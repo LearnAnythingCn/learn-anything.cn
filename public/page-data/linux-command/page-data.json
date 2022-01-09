@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/linux-command",
+    "result": {"data":{"strapiArticles":{"id":"Articles_189","title":"Linux 命令大全","description":"包含 Linux 系统下，所有 shell 命令的详解。","content":"Linux 命令大全：包含 Linux 系统下，所有 shell 命令的详解。","url":"https://www.runoob.com/linux/linux-command-manual.html","author":null,"published_at":"2021-10-28T05:54:20.000Z","tags":[{"name":"Linux","slug":"linux"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Linux 命令大全","slug":"linux-command"}},
+    "staticQueryHashes": ["63159454"]}

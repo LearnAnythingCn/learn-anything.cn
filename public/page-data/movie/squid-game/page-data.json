@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-movie-movie-detail-gen-js",
+    "path": "/movie/squid-game",
+    "result": {"data":{"strapiMovies":{"id":"Movies_20","slug":"squid-game","title":"鱿鱼游戏","author":"佚名","description":"一群走投无路并急需金钱的人收到神秘邀请，邀请他们共同加入一场游戏。为了赢取 456 亿韩元的奖金，背景各异的 456 名参赛者被关在秘密场所进行游戏。每一轮游戏都是韩国人小时候会玩的传统游戏，如一二三木头人，但闯关失败的后果是死亡。谁将是最终赢家，这个游戏的目的是什么？\n","content":"###### 一、简介\n一群走投无路并急需金钱的人收到神秘邀请，邀请他们共同加入一场游戏。为了赢取 456 亿韩元的奖金，背景各异的 456 名参赛者被关在秘密场所进行游戏。每一轮游戏都是韩国人小时候会玩的传统游戏，如一二三木头人，但闯关失败的后果是死亡。谁将是最终赢家，这个游戏的目的是什么？\n\n###### 二、观看链接\n- [链接1：鱿鱼游戏](https://dsxys.com/p/382648-8-1.html)","rank":50,"published_at":"2022-01-01T17:05:03.000Z","movie_tags":[{"slug":"movie-top","name":"高分电影"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"slug":"squid-game"}},
+    "staticQueryHashes": ["63159454"]}

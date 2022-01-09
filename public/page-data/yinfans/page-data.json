@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/yinfans",
+    "result": {"data":{"strapiArticles":{"id":"Articles_44","title":"音范丝","description":"高清蓝光电影下载，动辄一部电影30多个G，适合电影发烧友、家庭影院、收藏。","content":"高清蓝光电影资源下载，动辄一部电影30G，适合电影发烧友、家庭影院，收藏。","url":"https://www.yinfans.net/","author":null,"published_at":"2021-09-18T07:35:24.000Z","tags":[{"name":"电影下载","slug":"download-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"音范丝","slug":"yinfans"}},
+    "staticQueryHashes": ["63159454"]}

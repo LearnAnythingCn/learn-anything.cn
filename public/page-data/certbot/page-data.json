@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/certbot",
+    "result": {"data":{"strapiArticles":{"id":"Articles_152","title":"Certbot","description":"让你的网站从http升级为https的工具，EFF的一个开源项目。","content":"Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates.\n让你的网站从http升级为https的工具，EFF的一个开源项目。\n","url":"https://certbot.eff.org/","author":null,"published_at":"2021-10-22T09:36:53.000Z","tags":[{"name":"http/https","slug":"http-https"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Certbot","slug":"certbot"}},
+    "staticQueryHashes": ["63159454"]}

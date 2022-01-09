@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/nginx",
+    "result": {"data":{"strapiArticles":{"id":"Articles_153","title":"Nginx","description":"高性能的Web服务器，负载均衡且具有反向代理功能。","content":"NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.\nNGINX | High Performance Load Balancer, Web Server, & Reverse Proxy","url":"https://www.nginx.com/","author":null,"published_at":"2021-10-22T10:13:51.000Z","tags":[{"name":"Nginx","slug":"nginx"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Nginx","slug":"nginx"}},
+    "staticQueryHashes": ["63159454"]}

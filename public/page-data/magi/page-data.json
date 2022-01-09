@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/magi",
+    "result": {"data":{"strapiArticles":{"id":"Articles_155","title":"Magi","description":"搜索引擎，用 AI 帮你搜索答案，精准且没有广告，让你再也不愿意用百度。","content":"用 AI 梳理互联网的知识引擎 - Magi 通过机器学习将互联网上的海量信息构建成可解析、可检索、可溯源的结构化知识体系。","url":"https://magi.com/","author":null,"published_at":"2021-10-23T14:22:58.000Z","tags":[{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Magi","slug":"magi"}},
+    "staticQueryHashes": ["63159454"]}

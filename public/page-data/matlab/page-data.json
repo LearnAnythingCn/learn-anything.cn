@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/matlab",
+    "result": {"data":{"strapiArticles":{"id":"Articles_345","title":"MATLAB","description":"数据分析、算法开发和建模，数百万工程师和科学家都在使用。","content":"MATLAB 是数百万工程师和科学家都在使用的编程和数值计算平台，支持数据分析、算法开发和建模。","url":"https://ww2.mathworks.cn/products/matlab.html","author":null,"published_at":"2021-11-08T03:29:18.000Z","tags":[{"name":"数据分析","slug":"data-analysis"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"MATLAB","slug":"matlab"}},
+    "staticQueryHashes": ["63159454"]}

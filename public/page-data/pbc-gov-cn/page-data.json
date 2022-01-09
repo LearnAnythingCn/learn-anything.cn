@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/pbc-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_289","title":"人民银行","description":"中国人民银行官方网站。","content":"中国人民银行的主要职责：拟订金融业改革和发展战略规划，承担综合研究并协调解决金融运行中的重大问题、促进金融业协调健康发展的责任，参与评估重大金融并购活动对国家金融安全的影响并提出政策建议，促进金融业有序开放。起草有关法律和行政法规草案，完善有关金融机构运行规则，发布与履行职责有关的命令和规章等。","url":"http://www.pbc.gov.cn","author":null,"published_at":"2021-10-31T13:10:34.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"人民银行","slug":"pbc-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

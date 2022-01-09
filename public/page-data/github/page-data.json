@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/github",
+    "result": {"data":{"strapiArticles":{"id":"Articles_133","title":"GitHub","description":"超过6500万开发者使用的免费代码仓库，全球开源代码集中地，不提供私有仓库。","content":"GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.","url":"https://github.com/","author":null,"published_at":"2021-10-19T23:53:53.000Z","tags":[{"name":"代码托管","slug":"code-collocation"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"GitHub","slug":"github"}},
+    "staticQueryHashes": ["63159454"]}

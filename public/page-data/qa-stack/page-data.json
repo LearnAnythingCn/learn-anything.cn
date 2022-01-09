@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/qa-stack",
+    "result": {"data":{"strapiArticles":{"id":"Articles_193","title":"QA Stack","description":"问答网，汇聚众多行业的常见问题与答案，包括编程、旅行、科学天文、生活技巧等行业。","content":"问答网，汇聚众多行业的常见问题与答案，包括编程、旅行、科学天文、生活技巧等行业。","url":"https://qastack.cn/","author":null,"published_at":"2021-10-28T09:27:09.000Z","tags":[{"name":"问答","slug":"qa"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"QA Stack","slug":"qa-stack"}},
+    "staticQueryHashes": ["63159454"]}

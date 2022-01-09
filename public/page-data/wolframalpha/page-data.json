@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/wolframalpha",
+    "result": {"data":{"strapiArticles":{"id":"Articles_63","title":"wolframalpha","description":"科学搜索引擎，不仅有答案，还有解题说明，涵盖数学、自然科学、AI等，科研人员必备！","content":"把需要计算的公式扔给它，不仅有答案，还有详细的解题说明，内容涵盖数学、自然科学、AI等，科研人员必备！","url":"https://www.wolframalpha.com/","author":null,"published_at":"2021-09-22T17:04:02.000Z","tags":[{"name":"问答","slug":"qa"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"wolframalpha","slug":"wolframalpha"}},
+    "staticQueryHashes": ["63159454"]}

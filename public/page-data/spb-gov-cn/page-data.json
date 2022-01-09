@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/spb-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_310","title":"国家邮政局","description":"国家邮政局官方网站。","content":"国家邮政局职责主要有：拟订邮政行业的发展战略、规划、政策和标准，提出深化邮政体制改革和促进邮政与交通运输统筹发展的政策建议，起草邮政行业法律法规和部门规章草案。承担邮政监管责任，推动建立覆盖城乡的邮政普遍服务体系，推进建立和完善普遍服务和特殊服务保障机制，提出邮政行业服务价格政策和基本邮政业务价格建议，并监督执行等。","url":"http://www.spb.gov.cn","author":null,"published_at":"2021-10-31T13:29:42.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家邮政局","slug":"spb-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

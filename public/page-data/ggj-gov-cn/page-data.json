@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/ggj-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_299","title":"国管局","description":"国家机关事务管理局官方网站。","content":"国管局的主要职能是负责中央国家机关事务的管理、保障、服务工作。拟订中央国家机关事务工作的政策、规划和规章制度并组织实施。组织拟订中央国家机关后勤体制改革政策、制度并监督实施，指导后勤服务单位业务工作。会同有关部门拟订中央国家机关有关社会保障工作制度并组织实施等。","url":"http://www.ggj.gov.cn","author":null,"published_at":"2021-10-31T13:21:09.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国管局","slug":"ggj-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

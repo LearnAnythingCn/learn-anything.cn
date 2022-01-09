@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/fmprc-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_269","title":"外交部","description":"中华人民共和国外交部官方网站。","content":"外交部的主要职责包括贯彻执行国家外交方针政策和有关法律法规，代表国家维护国家主权、安全和利益，代表国家和政府办理外交事务，承办党和国家领导人与外国领导人的外交往来事务。调查研究国际形势和国际关系中全局性、战略性问题，研究分析政治、经济、文化、安全等领域外交工作的重大问题，为党中央、国务院制定外交战略和方针政策提出建议等。","url":"https://www.fmprc.gov.cn/web/","author":null,"published_at":"2021-10-31T12:42:12.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"外交部","slug":"fmprc-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

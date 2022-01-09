@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/compress-pdf",
+    "result": {"data":{"strapiArticles":{"id":"Articles_230","title":"PDF压缩","description":"免费在线PDF压缩软件：无文件大小限制，无广告水印。压缩过程方便快捷，压缩后的PDF文件仍能保持优质美观。","content":"在线将您的PDF大小缩小，免费在线PDF压缩软件：无文件大小限制，无广告水印。压缩过程方便快捷，压缩后的PDF文件仍能保持优质美观。","url":"https://smallpdf.com/cn/compress-pdf","author":null,"published_at":"2021-10-31T02:55:16.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"PDF压缩","slug":"compress-pdf"}},
+    "staticQueryHashes": ["63159454"]}

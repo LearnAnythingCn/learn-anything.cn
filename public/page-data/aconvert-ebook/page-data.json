@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/aconvert-ebook",
+    "result": {"data":{"strapiArticles":{"id":"Articles_255","title":"电子书格式转换","description":"电子书格式文件相互转换：AZW3，EPUB，DOCX，FB2，HTML，LIT，MOBI，PDF，RTF，SNB，TCR或TXT文件等。","content":"在线转换电子书文件\n将电子书文件转换为AZW3，EPUB，DOCX，FB2，HTML，LIT，MOBI，PDF，RTF，SNB，TCR或TXT文件。","url":"https://www.aconvert.com/cn/ebook/","author":null,"published_at":"2021-10-31T06:29:24.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"电子书格式转换","slug":"aconvert-ebook"}},
+    "staticQueryHashes": ["63159454"]}

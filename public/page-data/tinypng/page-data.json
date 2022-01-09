@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/tinypng",
+    "result": {"data":{"strapiArticles":{"id":"Articles_14","title":"tinypng","description":"在线无损图片压缩，支持PNG、JPG、WebP，三种格式，速度很快，体验不错。","content":"在线无损压缩工具，支持PNG、JPG、WebP，三种格式图片。","url":"https://tinypng.com/","author":null,"published_at":"2021-09-17T16:10:24.000Z","tags":[{"name":"常用","slug":"common"},{"name":"软件","slug":"software"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"tinypng","slug":"tinypng"}},
+    "staticQueryHashes": ["63159454"]}

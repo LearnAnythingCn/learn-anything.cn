@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/shanghairanking",
+    "result": {"data":{"strapiArticles":{"id":"Articles_220","title":"软科","description":"提高世界大学、中国大学、学科排名，为社会各界了解国内外大学提供重要参考。","content":"软科-高等教育评价领先品牌\n中国最好大学排名、中国最好学科排名、世界大学学术排名（中文版）世界一流学科排名、中国两岸四地大学排名是由软科（www.shanghairanking. cn）发布。是学生高考择校、出国留学和社会各界了解分析国内外大学办学状况的重要参考。","url":"https://www.shanghairanking.cn/","author":null,"published_at":"2021-10-29T07:36:57.000Z","tags":[{"name":"留学","slug":"studying-abroad"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"软科","slug":"shanghairanking"}},
+    "staticQueryHashes": ["63159454"]}

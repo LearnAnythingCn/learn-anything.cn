@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/calibre",
+    "result": {"data":{"strapiArticles":{"id":"Articles_228","title":"Calibre","description":"电子书编辑软件，开源且完全免费，可用于 Windows、Mac 和 Linux，支持epub、mobi、azw3等格式。","content":"calibre：满足您所有电子书需求的一站式解决方案。全面的电子书软件。\n电子书编辑软，开源且完全免费，可用于 Windows、Mac 和 Linux，支持epub、mobi、azw3等格式。","url":"https://calibre-ebook.com/zh_CN","author":null,"published_at":"2021-10-29T12:26:20.000Z","tags":[{"name":"软件","slug":"software"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Calibre","slug":"calibre"}},
+    "staticQueryHashes": ["63159454"]}

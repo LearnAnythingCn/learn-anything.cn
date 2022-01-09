@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/open-douyin",
+    "result": {"data":{"strapiArticles":{"id":"Articles_395","title":"抖音开放平台","description":"调用抖音开放的API，获取抖音相关数据。","content":"抖音开放平台，致力于打造抖音开放的生态系统，将从基础能力、内容、数据、服务等层面的开放，为开发者提供高效便捷的解决方案。\n\n\n关键词：抖音开放平台|抖音开发者平台|抖音开放平台官网|抖音开发者平台官网|抖音开放api|抖音授权登录|抖音开发者|帐号信息|开发者信息|开发者入驻|抖音开放文档|第三方开发者|第三方接入","url":"https://open.douyin.com/platform","author":null,"published_at":"2021-11-20T07:04:47.000Z","tags":[{"name":"抖音","slug":"douyin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"抖音开放平台","slug":"open-douyin"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/ssllabs-ssltest",
+    "result": {"data":{"strapiArticles":{"id":"Articles_157","title":"SSL Server Test","description":"免费且深度检测 HTTPS 服务存在的问题。","content":"A comprehensive free SSL test for your public web servers.","url":"https://www.ssllabs.com/ssltest/index.html","author":null,"published_at":"2021-10-24T04:38:23.000Z","tags":[{"name":"http/https","slug":"http-https"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"SSL Server Test","slug":"ssllabs-ssltest"}},
+    "staticQueryHashes": ["63159454"]}

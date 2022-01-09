@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/w3school",
+    "result": {"data":{"strapiArticles":{"id":"Articles_109","title":"w3school","description":"Web技术教程，包括HTML、CSS、XML、SQL、JS、Python、PHP 、ASP.NET等。","content":"Web技术教程，包括HTML、CSS、XML、SQL、JS、Python、PHP 、ASP.NET等。","url":"https://www.w3school.com.cn/index.html","author":null,"published_at":"2021-10-11T03:25:27.000Z","tags":[{"name":"HTML","slug":"html"},{"name":"JavaScript","slug":"java-script"},{"name":"CSS","slug":"css"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"w3school","slug":"w3school"}},
+    "staticQueryHashes": ["63159454"]}

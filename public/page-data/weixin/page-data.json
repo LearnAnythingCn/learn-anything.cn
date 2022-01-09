@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/weixin",
+    "result": {"data":{"strapiArticles":{"id":"Articles_250","title":"微信下载","description":"下载Android(安卓)、iPhone、Windows、MacOS版本的微信。","content":"一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。","url":"https://weixin.qq.com/","author":null,"published_at":"2021-10-31T04:17:31.000Z","tags":[{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"微信下载","slug":"weixin"}},
+    "staticQueryHashes": ["63159454"]}

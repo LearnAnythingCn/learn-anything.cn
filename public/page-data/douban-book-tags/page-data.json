@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/douban-book-tags",
+    "result": {"data":{"strapiArticles":{"id":"Articles_187","title":"图书分类","description":"豆瓣上根据图书类型分类，方便查找各分类中最受欢迎的图书。","content":"豆瓣图书标签：豆瓣上根据图书类型分类，方便查找各分类中最受欢迎的图书。","url":"https://book.douban.com/tag/?view=type&icn=index-sorttags-all","author":null,"published_at":"2021-10-28T05:48:16.000Z","tags":[{"name":"书榜热评","slug":"book-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"图书分类","slug":"douban-book-tags"}},
+    "staticQueryHashes": ["63159454"]}

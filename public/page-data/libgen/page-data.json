@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/libgen",
+    "result": {"data":{"strapiArticles":{"id":"Articles_39","title":"libgen","description":"可免费下载超过200万本英文电子书，包括自然科学、工程学等。【需要梯子】","content":"拥有超过200万本英文电子书，包括自然科学、工程学等。【需要梯子】","url":"http://libgen.rs/","author":null,"published_at":"2021-09-18T04:58:15.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"libgen","slug":"libgen"}},
+    "staticQueryHashes": ["63159454"]}

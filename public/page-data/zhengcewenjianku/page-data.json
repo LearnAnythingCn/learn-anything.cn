@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/zhengcewenjianku",
+    "result": {"data":{"strapiArticles":{"id":"Articles_267","title":"国务院政策文件库","description":"查询已经公开发布的行政法规、规章和行政规范性文件。","content":"国务院政策文件库\n已经公开发布的行政法规、规章和行政规范性文件。","url":"http://www.gov.cn/zhengce/zhengcewenjianku/index.htm","author":null,"published_at":"2021-10-31T12:35:39.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国务院政策文件库","slug":"zhengcewenjianku"}},
+    "staticQueryHashes": ["63159454"]}

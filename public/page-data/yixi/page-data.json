@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/yixi",
+    "result": {"data":{"strapiArticles":{"id":"Articles_209","title":"一席","description":"通过剧场式现场演讲，传递知识和丰富的精神世界。","content":"一席鼓励分享见解、体验和对未来的想象，做有价值的传播。2012年成立于北京，一席现场演讲，目前在北京、上海、广州、杭州、深圳、武汉、香港、台北等城市举办。\n\n一席是一个独立媒体，2012年成立于北京，已制作“一席”、“枝桠”和“一席记录”三档视频节目。“一席”是剧场式的现场演讲，结合网络视频进行传播。已有国内外近700位讲者和表演嘉宾登上一席的舞台。\n\n一席现场：在北京、上海、广州、深圳、杭州、武汉、长沙、香港、台北等城市举办。网络视频观看已超过4亿人次，影响观众上千万人。\n\n枝桠：是一档谈话节目。邀请了包括崔健、胡德夫、卢冠廷、林志炫、李银河、张大春、金宇澄、詹宏志、周浩在内的众多嘉宾。试图通过谈话接近他们丰富的精神世界。\n\n一席记录：是一席拍摄的纪录片。","url":"https://yixi.tv/","author":null,"published_at":"2021-10-29T05:21:00.000Z","tags":[{"name":"资讯","slug":"news"},{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"一席","slug":"yixi"}},
+    "staticQueryHashes": ["63159454"]}

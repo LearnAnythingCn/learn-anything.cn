@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/nlc",
+    "result": {"data":{"strapiArticles":{"id":"Articles_211","title":"中国国家图书馆","description":"可在线阅读、查询各类图书资源，包含：图书、期刊、报纸、论文、古籍、音乐、影视等资源","content":"国家图书馆,国家古籍保护中心,国家典籍博物馆\n国家图书馆是国家总书库，国家书目中心，国家古籍保护中心，国家典籍博物馆。履行国内外图书文献收藏和保护的职责，指导协调全国文献保护工作；为中央和国家领导机关、社会各界及公众提供文献信息和参考咨询服务;开展图书馆学理论与图书馆事业发展研究，指导全国图书馆业务工作；对外履行有关文化交流职能，参加国际图联及相关国际组织，开展与国内外图书馆的交流与合作。","url":"http://www.nlc.cn/","author":null,"published_at":"2021-10-29T05:35:51.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中国国家图书馆","slug":"nlc"}},
+    "staticQueryHashes": ["63159454"]}

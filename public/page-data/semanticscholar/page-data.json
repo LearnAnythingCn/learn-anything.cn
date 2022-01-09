@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/semanticscholar",
+    "result": {"data":{"strapiArticles":{"id":"Articles_144","title":"Semantic Scholar","description":"免费且智能的科学文献研究工具，拥有2亿篇科学论文，可免费阅读和下载。","content":"Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research.\n免费且智能的科学文献研究工具，拥有2亿篇科学论文，可免费阅读和下载。","url":"https://www.semanticscholar.org/","author":null,"published_at":"2021-10-21T07:12:05.000Z","tags":[{"name":"论文资料","slug":"paper-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Semantic Scholar","slug":"semanticscholar"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/miniprogram-doc",
+    "result": {"data":{"strapiArticles":{"id":"Articles_251","title":"小程序开发文档","description":"小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。","content":"微信开放文档 - 小程序\n小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。","url":"https://developers.weixin.qq.com/miniprogram/dev/framework/","author":null,"published_at":"2021-10-31T04:19:00.000Z","tags":[{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"小程序开发文档","slug":"miniprogram-doc"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/zh-khanacademy",
+    "result": {"data":{"strapiArticles":{"id":"Articles_213","title":"可汗学院","description":"非盈利机构，努力为全世界提供免费的一流教育。【需要梯子】","content":"可汗学院：是一家非盈利机构，努力为全世界所有人提供免费的一流教育。帮助每位学生，每间课堂，达成实效。","url":"https://zh.khanacademy.org/","author":null,"published_at":"2021-10-29T05:44:16.000Z","tags":[{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"可汗学院","slug":"zh-khanacademy"}},
+    "staticQueryHashes": ["63159454"]}

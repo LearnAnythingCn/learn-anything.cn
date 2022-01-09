@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/theuselessweb",
+    "result": {"data":{"strapiArticles":{"id":"Articles_134","title":"无用网站","description":"把你带入未知世界，随机跳转到另一个神奇网站，包含：游戏、读书、挑战等，无聊时，点一下，看看有什么惊喜！","content":"The Useless Web Button... just press it, and find where it takes you.\n随机跳转到另一个神奇网站，包含：游戏、读书、挑战等，无聊时，点一下，看看有什么惊喜！","url":"https://theuselessweb.com/","author":null,"published_at":"2021-10-20T06:14:09.000Z","tags":[{"name":"有意思","slug":"funny-things"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"无用网站","slug":"theuselessweb"}},
+    "staticQueryHashes": ["63159454"]}

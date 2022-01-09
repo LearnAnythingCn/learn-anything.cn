@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/ndrc-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_270","title":"发改委","description":"中华人民共和国国家发展和改革委员会官方网站。","content":"国家发展和改革委员会主要职责是：拟订并组织实施国民经济和社会发展战略、中长期规划和年度计划。牵头组织统一规划体系建设。负责国家级专项规划、区域规划、空间规划与国家发展规划的统筹衔接。起草国民经济和社会发展、经济体制改革和对外开放的有关法律法规草案，制定部门规章等。","url":"https://www.ndrc.gov.cn","author":null,"published_at":"2021-10-31T12:43:43.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"发改委","slug":"ndrc-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

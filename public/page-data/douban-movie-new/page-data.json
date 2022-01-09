@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/douban-movie-new",
+    "result": {"data":{"strapiArticles":{"id":"Articles_183","title":"新电影榜单","description":"豆瓣电影排行榜，提供最新电影排行榜、本周电影口碑榜。","content":"豆瓣电影排行榜,提供最新电影排行榜、本周电影口碑榜和豆瓣电影TOP250","url":"https://movie.douban.com/chart","author":null,"published_at":"2021-10-28T05:36:10.000Z","tags":[{"name":"影榜热评","slug":"movie-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"新电影榜单","slug":"douban-movie-new"}},
+    "staticQueryHashes": ["63159454"]}

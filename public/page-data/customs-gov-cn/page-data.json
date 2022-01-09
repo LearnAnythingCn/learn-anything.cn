@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/customs-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_293","title":"海关总署","description":"中华人民共和国海关总署官方网站。","content":"海关总署负责全国海关工作、组织推动口岸“大通关”建设、海关监管工作、进出口关税及其他税费征收管理、出入境卫生检疫和出入境动植物及其产品检验检疫、进出口商品法定检验、海关风险管理、国家进出口货物贸易等海关统计、全国打击走私综合治理工作、制定并组织实施海关科技发展规划以及实验室建设和技术保障规划等。","url":"http://www.customs.gov.cn/","author":null,"published_at":"2021-10-31T13:14:36.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"海关总署","slug":"customs-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

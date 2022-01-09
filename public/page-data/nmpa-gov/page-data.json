@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/nmpa-gov",
+    "result": {"data":{"strapiArticles":{"id":"Articles_61","title":"国家药品监督管理局","description":"药品、医疗器械、化妆品等国家备案信息查询。","content":"药品、医疗器械、化妆品等国家备案信息查询。","url":"http://app1.nmpa.gov.cn/data_nmpa/face3/base.jsp?tableId=25&tableName=TABLE25&title=%E5%9B%BD%E4%BA%A7%E8%8D%AF%E5%93%81&bcId=152904713761213296322795806604","author":null,"published_at":"2021-09-22T16:25:20.000Z","tags":[{"name":"数据查询","slug":"gov-cn-data"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家药品监督管理局","slug":"nmpa-gov"}},
+    "staticQueryHashes": ["63159454"]}

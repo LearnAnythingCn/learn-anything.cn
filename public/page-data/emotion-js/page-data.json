@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/emotion-js",
+    "result": {"data":{"strapiArticles":{"id":"Articles_368","title":"Emotion","description":"用 JavaScript 语法来写css，用于 agnostic 和 React 这两个框架。","content":"Emotion is a library designed for writing css styles with JavaScript. It provides powerful and predictable style composition in addition to a great developer experience with features such as source maps, labels, and testing utilities. Both string and object styles are supported.\n\nThere are two primary methods of using Emotion. The first is framework agnostic and the second is for use with React.\n\n用 JavaScript（js） 语法来写css，用于 agnostic 和 React 这两个框架。","url":"https://emotion.sh/docs/introduction","author":null,"published_at":"2021-11-14T06:54:09.000Z","tags":[{"name":"React","slug":"react"},{"name":"JavaScript","slug":"java-script"},{"name":"CSS","slug":"css"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Emotion","slug":"emotion-js"}},
+    "staticQueryHashes": ["63159454"]}

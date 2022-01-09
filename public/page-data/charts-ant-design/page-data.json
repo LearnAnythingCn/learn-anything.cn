@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/charts-ant-design",
+    "result": {"data":{"strapiArticles":{"id":"Articles_326","title":"Ant-Design图表库","description":"简单好用的 React 图表库，阿里巴巴团队开发。","content":"Ant Design Charts - 简单好用的 React 图表库，阿里巴巴团队开发。","url":"https://charts.ant.design/","author":null,"published_at":"2021-11-01T12:26:19.000Z","tags":[{"name":"前端图表","slug":"frontend-charts"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Ant-Design图表库","slug":"charts-ant-design"}},
+    "staticQueryHashes": ["63159454"]}

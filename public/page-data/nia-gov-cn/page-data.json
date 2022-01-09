@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/nia-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_306","title":"国家移民管理局","description":"国家移民管理局官方网站。","content":"国家移民管理局主要职责是：负责全国移民管理工作；负责协调拟订移民和出入境管理政策与规划并协调组织实施，起草相关法律法规草案；负责建立健全签证管理协调机制，组织实施外国人来华口岸签证、入境许可签发管理和签证延期换发；负责外国人来华留学管理、工作有关管理、停留居留和永久居留管理、国籍管理、难民管理；负责出入境边防检查、边民往来管理、边境地区边防管理；负责中国公民因私出入境管理、港澳台居民回内地（大陆）定居审批管理等。","url":"https://www.nia.gov.cn","author":null,"published_at":"2021-10-31T13:26:55.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家移民管理局","slug":"nia-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

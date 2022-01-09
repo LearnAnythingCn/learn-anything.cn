@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/split-pdf",
+    "result": {"data":{"strapiArticles":{"id":"Articles_246","title":"分割PDF","description":"可任意分割PDF文件，无广告水印，无文件大小限制。","content":"分割PDF - 从PDF提取页面\n无广告水印，无文件大小限制 - 这方便使用而且免费的线上应用程式让您任意分割PDF档案。","url":"https://smallpdf.com/cn/split-pdf","author":null,"published_at":"2021-10-31T03:38:02.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"分割PDF","slug":"split-pdf"}},
+    "staticQueryHashes": ["63159454"]}

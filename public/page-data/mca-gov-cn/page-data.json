@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/mca-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_275","title":"民政部","description":"中华人民共和国民政部官方网站。","content":"民政部主要职责包括拟订民政事业发展法律法规草案、政策、规划，制定部门规章和标准并组织实施；拟订社会团体、基金会、社会服务机构等社会组织登记和监督管理办法并组织实施，依法对社会组织进行登记管理和执法监督；拟订社会救助政策、标准，统筹社会救助体系建设，负责城乡居民最低生活保障、特困人员救助供养、临时救助、生活无着流浪乞讨人员救助工作；拟订城乡基层群众自治建设和社区治理政策，指导城乡社区治理体系和治理能力建设，提出加强和改进城乡基层政权建设的建议，推动基层民主政治建设等。","url":"http://www.mca.gov.cn","author":null,"published_at":"2021-10-31T12:54:50.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"民政部","slug":"mca-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

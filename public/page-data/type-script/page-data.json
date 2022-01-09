@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/type-script",
+    "result": {"data":{"strapiArticles":{"id":"Articles_437","title":"TypeScript","description":"一种前端脚本编程语言，以JavaScript为基础，对其数据类型做了限制，保证其数据的一致性，避免运行期产生莫名其妙的BUG.","content":"###### TypeScript\n一种前端编程语言，以JavaScript为基础，对其数据类型做了限制，保证其数据的一致性，避免运行期产生莫名其妙的BUG.","url":"https://www.typescriptlang.org/zh/","author":null,"published_at":"2021-12-05T01:31:54.000Z","tags":[{"name":"TypeScript","slug":"type-script"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"TypeScript","slug":"type-script"}},
+    "staticQueryHashes": ["63159454"]}

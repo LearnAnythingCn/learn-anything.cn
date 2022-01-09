@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/runoob",
+    "result": {"data":{"strapiArticles":{"id":"Articles_59","title":"runoob","description":"基础教程，包含HTML、CSS、JS、Python，Java，Ruby，PHP , MySQL等。","content":"基础教程，无广告，涵盖：HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等编程语言的基础知识。","url":"https://www.runoob.com/","author":null,"published_at":"2021-09-22T07:39:43.000Z","tags":[{"name":"HTML","slug":"html"},{"name":"JavaScript","slug":"java-script"},{"name":"CSS","slug":"css"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"runoob","slug":"runoob"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/sigil",
+    "result": {"data":{"strapiArticles":{"id":"Articles_229","title":"Sigil","description":"epub格式电子书编辑软件，开源且完全免费，可用于 Windows、Mac 和 Linux系统。","content":"epub格式电子书编辑软件，开源且完全免费，可用于 Windows、Mac 和 Linux系统。\nSigil was designed to make it easy to create great ebooks using the EPUB format. If you are formatting books for your own use, or you are a professional editor publishing books on multiple platforms, then Sigil is for you. You can use Sigil to format and package your books into an EPUB that looks exactly the way you want it to using an advanced set of features that have made Sigil one of most popular EPUB editors available.","url":"https://sigil-ebook.com/sigil/download/","author":null,"published_at":"2021-10-29T12:29:43.000Z","tags":[{"name":"软件","slug":"software"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Sigil","slug":"sigil"}},
+    "staticQueryHashes": ["63159454"]}

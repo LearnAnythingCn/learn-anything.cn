@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/marktext",
+    "result": {"data":{"strapiArticles":{"id":"Articles_538","title":"Mark Text","description":"简单易用的Markdown编辑软件，开源且完全免费。","content":"###### 一、简介\n简单易用的Markdown编辑软件，开源且完全免费。\n\n关键字：Markdown","url":"https://marktext.app/","author":null,"published_at":"2022-01-05T04:19:52.000Z","tags":[{"name":"Markdown","slug":"markdown"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Mark Text","slug":"marktext"}},
+    "staticQueryHashes": ["63159454"]}

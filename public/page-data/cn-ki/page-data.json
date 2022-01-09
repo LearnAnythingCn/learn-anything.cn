@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/cn-ki",
+    "result": {"data":{"strapiArticles":{"id":"Articles_128","title":"iData知识检索","description":"免费下载公开发表的学术文献、论文，由北大、清华、浙大、复旦等师生共建，促进知识共享传播。","content":"iData是由北京大学、清华大学、浙江大学、复旦大学等师生学者共同筹建的用于教学、科研目的的公益互联网项目，旨在促进知识的传播和最新学术科技的共享。iData平台上所有信息均为公开发表的学术文献，由学者自由上传，并提供有限的免费浏览、下载服务。","url":"https://www.cn-ki.net/","author":null,"published_at":"2021-10-19T11:50:04.000Z","tags":[{"name":"论文资料","slug":"paper-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"iData知识检索","slug":"cn-ki"}},
+    "staticQueryHashes": ["63159454"]}

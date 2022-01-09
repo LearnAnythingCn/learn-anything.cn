@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/yxgapp",
+    "result": {"data":{"strapiArticles":{"id":"Articles_199","title":"译学馆","description":"把优质英文视频翻译成中文，内容包括：TED、生命科学、科普、教育、商业、社会、旅游、英语、动物、时尚、趣闻、设计等等各个领域。","content":"译学馆 – 知识无疆界 –  一个专注于译制知识视频的平台，把网上优质英文视频翻译成中文，内容包括：TED、生命科学、科普、教育、商业、社会、旅游、英语、动物、时尚、趣闻、设计等等各个领域。\n\n欢迎语言能力强的朋友加入我们的译者行列，帮助他人，提高自己。如果你是观众，觉得内容不错对自己有帮助，就请给译者们点个赞吧！\n","url":"https://www.yxgapp.com/","author":null,"published_at":"2021-10-29T03:04:31.000Z","tags":[{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"译学馆","slug":"yxgapp"}},
+    "staticQueryHashes": ["63159454"]}

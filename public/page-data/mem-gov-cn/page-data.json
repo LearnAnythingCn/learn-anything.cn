@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/mem-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_288","title":"应急管理部","description":"中华人民共和国应急管理部官方网站。","content":"应急管理部的主要职责包括：组织编制国家应急总体预案和规划，指导各地区各部门应对突发事件工作，推动应急预案体系建设和预案演练。建立灾情报告系统并统一发布灾情，统筹应急力量建设和物资储备并在救灾时统一调度，组织灾害救助体系建设，指导安全生产类、自然灾害类应急救援，承担国家应对特别重大灾害指挥部工作。指导火灾、水旱灾害、地质灾害等防治。负责安全生产综合监督管理和工矿商贸行业安全生产监督管理等。","url":"https://www.mem.gov.cn","author":null,"published_at":"2021-10-31T13:09:30.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"应急管理部","slug":"mem-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

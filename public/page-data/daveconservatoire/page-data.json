@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/daveconservatoire",
+    "result": {"data":{"strapiArticles":{"id":"Articles_334","title":"Dave Conservatoire","description":"免费提供世界级水平的音乐学习课程，需要懂英语。","content":"Dave Conservatoire | The world's free music school\nWelcome to Dave Conservatoire - a free online music school, aiming to provide a world-class music education for everyone.\n\n免费提供世界级水平的音乐学习课程，需要懂英语。\n","url":"https://daveconservatoire.org/","author":null,"published_at":"2021-11-02T13:06:35.000Z","tags":[{"name":"艺术&音乐","slug":"art-music"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Dave Conservatoire","slug":"daveconservatoire"}},
+    "staticQueryHashes": ["63159454"]}

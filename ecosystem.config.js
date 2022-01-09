@@ -12,7 +12,9 @@ module.exports = {
       user : 'learn',
       host : '101.200.127.218',
       ref  : 'origin/master',
-      repo : 'git@gitee.com:learn-anything/learn-anything.cn.git',
+      repo : 'git@github.com:LearnAnythingCn/learn-anything.cn.git',
+      // gitee
+      // repo : 'git@gitee.com:learn-anything/learn-anything.cn.git',
       path : '/home/learn/learn-anything.cn',
       // 'pre-deploy-local': '',
       // 'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production',

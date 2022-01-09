@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/rankings-gras",
+    "result": {"data":{"strapiArticles":{"id":"Articles_225","title":"世界一流学科排名","description":"查看 2017年 - 2021年 世界一流学科排名。","content":"软科于2009年开始发布世界大学分学科排名，软科世界一流学科排名（ShanghaiRanking's Global Ranking of Academic Subjects，简称GRAS）覆盖54个学科，涉及理学、工学、生命科学、医学和社会科学五大领域。软科世界一流学科排名全部采用国际可比的客观学术指标，包括学科国际权威奖项、学科顶尖论文、学科论文质量、学科国际合作等。软科世界一流学科排名的对象为全球4000余所大学，每年有约90个国家和地区的1800余所高校最终出现在各个学科的榜单上（[查看排名方法](https://www.shanghairanking.cn/methodology/gras/2021)）。","url":"https://www.shanghairanking.cn/rankings/gras/2021","author":null,"published_at":"2021-10-29T07:47:24.000Z","tags":[{"name":"留学","slug":"studying-abroad"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"世界一流学科排名","slug":"rankings-gras"}},
+    "staticQueryHashes": ["63159454"]}

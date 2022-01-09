@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/greasyfork",
+    "result": {"data":{"strapiArticles":{"id":"Articles_435","title":"Greasy Fork","description":"可免费下载使用大量浏览器脚本，可去除网页广告、去除网页不可复制等限制。","content":"###### 一、Greasy Fork\n\n安全、实用的用户脚本大全。可免费下载使用大量浏览器脚本，可去除网页广告、去除网页不可复制等限制。\n\n\n###### 二、脚本是什么？\n用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。在 Greasy Fork 上的用户脚本都是由用户编写并向全世界发表的，您可以免费安装，轻松体验。\n\n","url":"https://greasyfork.org/zh-CN","author":null,"published_at":"2021-12-04T14:17:44.000Z","tags":[{"name":"软件","slug":"software"},{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Greasy Fork","slug":"greasyfork"}},
+    "staticQueryHashes": ["63159454"]}

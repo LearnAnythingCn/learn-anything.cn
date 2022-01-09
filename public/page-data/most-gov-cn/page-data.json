@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/most-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_272","title":"科学技术部","description":"中华人民共和国科学技术部官方网站。","content":"科学技术部主要职能包括：拟订国家创新驱动发展战略方针以及科技发展、引进国外智力规划和政策并组织实施。统筹推进国家创新体系建设和科技体制改革，会同有关部门健全技术创新激励机制。优化科研体系建设，指导科研机构改革发展，推动企业科技创新能力建设，承担推进科技军民融合发展相关工作，推进国家重大科技决策咨询制度建设。牵头建立统一的国家科技管理平台和科研项目资金协调、评估、监管机制等。","url":"http://www.most.gov.cn","author":null,"published_at":"2021-10-31T12:50:22.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"科学技术部","slug":"most-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

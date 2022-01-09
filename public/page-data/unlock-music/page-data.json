@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/unlock-music",
+    "result": {"data":{"strapiArticles":{"id":"Articles_18","title":"音乐解锁","description":"把网易云音乐、 QQ音乐、虾米音乐、酷我音乐等转换成mp3格式。","content":"解锁加密音乐，把网易云音乐(ncm)、 QQ音乐(qmc, mflac, mgg)、虾米音乐(xm)、酷我音乐(.kwm)等转换成mp3格式。","url":"https://tool.ixarea.com/music/","author":null,"published_at":"2021-09-18T00:25:31.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"音乐解锁","slug":"unlock-music"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/pixabay",
+    "result": {"data":{"strapiArticles":{"id":"Articles_22","title":"pixabay","description":"免费下载照片、插图、矢量图、电影片段和音乐的网站，通常允许免费使用，但有一些限制。","content":"简化的Pixabay许可证\n我们的许可证赋予创作者权力并保护我们的社区。我们想让它尽可能简单。以下是关于可以和不可以使用哪些内容的概述。\n\n什么是允许的？\n✓\t除了“不允许的内容”中提到的情况外，Pixabay 上的所有内容都可以免费用于商业和非商业用途的印刷和数字用途。\n✓\t不需要归属。没有必要将功劳归功于贡献者或pixabay，但我们的社区始终对此表示赞赏。\n✓\t您可以修改来自Pixabay的内容。\n什么是不允许的？\n本节仅适用于图像用户，不适用于适当的图像作者。\n\n✕\t请勿在其他股票或壁纸平台上重新分发或出售他人的 pixa 图像或视频。\n✕\t不要出售未经更改的图像副本。例如，将库存照片的精确副本作为海报、印刷品或实体产品出售。\n✕\t不要以不好的方式或以冒犯的方式描绘可识别的人。\n✕\t不要使用带有可识别品牌的图像来与产品或服务产生误导性的关联。","url":"https://pixabay.com/","author":null,"published_at":"2021-09-18T01:14:26.000Z","tags":[{"name":"图库","slug":"gallery"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"pixabay","slug":"pixabay"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/scholar-google",
+    "result": {"data":{"strapiArticles":{"id":"Articles_324","title":"Google学术搜索","description":"搜索学术文献，囊括众多知识领域：文章、论文、图书、摘要和法院判决意见书。【需要梯子】","content":"借助 Google 学术搜索，您可以轻松地大范围搜索学术文献。搜索范围囊括众多知识领域和来源：文章、论文、图书、摘要和法院判决意见书。","url":"https://scholar.google.com/","author":null,"published_at":"2021-11-01T12:16:43.000Z","tags":[{"name":"论文资料","slug":"paper-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Google学术搜索","slug":"scholar-google"}},
+    "staticQueryHashes": ["63159454"]}

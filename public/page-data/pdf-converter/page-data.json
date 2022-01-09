@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/pdf-converter",
+    "result": {"data":{"strapiArticles":{"id":"Articles_231","title":"PDF转换器","description":"将Word、Excel、PPT和图像文件转换为PDF.","content":"PDF转换器 – 在线免费转换PDF文件\n全网络第一名完全免费的在线PDF转换器，能够轻松将您的文件转成PDF，或将您的PDF文件转换成其他的类型。不需注册或安装任何软件。现在开始转档吧！","url":"https://smallpdf.com/cn/pdf-converter","author":null,"published_at":"2021-10-31T02:58:46.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"PDF转换器","slug":"pdf-converter"}},
+    "staticQueryHashes": ["63159454"]}

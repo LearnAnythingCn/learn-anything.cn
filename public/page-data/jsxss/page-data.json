@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/jsxss",
+    "result": {"data":{"strapiArticles":{"id":"Articles_400","title":"XSS","description":"对用户输入的内容进行过滤，以避免遭受 XSS 攻击。","content":"###### 防止XSS攻击\n根据白名单过滤HTML\n\n###### 特性:\n- 白名单控制允许的HTML标签及各标签的属性\n- 通过自定义处理函数，可对任意标签及其属性进行处理\n\n\nxss是一个用于对用户输入的内容进行过滤，以避免遭受 XSS 攻击的模块（什么是 XSS 攻击？）。主要用于论坛、博客、网上商店等等一些可允许用户录入页面排版、格式控制相关的 HTML 的场景，xss模块通过白名单来控制允许的标签及相关的标签属性，另外还提供了一系列的接口以便用户扩展，比其他同类模块更为灵活。\n\n\n","url":"https://jsxss.com/zh/index.html","author":null,"published_at":"2021-11-22T14:27:40.000Z","tags":[{"name":"JavaScript","slug":"java-script"},{"name":"Nodejs","slug":"nodejs"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"XSS","slug":"jsxss"}},
+    "staticQueryHashes": ["63159454"]}

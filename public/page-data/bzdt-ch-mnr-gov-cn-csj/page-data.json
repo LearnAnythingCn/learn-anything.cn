@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/bzdt-ch-mnr-gov-cn-csj",
+    "result": {"data":{"strapiArticles":{"id":"Articles_373","title":"长江三角洲地图","description":"中国长江三角洲地区区域图，包含上海市、江苏省、浙江省、安徽省。","content":"中国长江三角洲地区区域图（长三角），包含上海市、江苏省、浙江省、安徽省。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0421%22","author":null,"published_at":"2021-11-19T03:17:48.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"长江三角洲地图","slug":"bzdt-ch-mnr-gov-cn-csj"}},
+    "staticQueryHashes": ["63159454"]}

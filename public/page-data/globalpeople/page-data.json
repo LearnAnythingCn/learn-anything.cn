@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/globalpeople",
+    "result": {"data":{"strapiArticles":{"id":"Articles_207","title":"环球人物","description":"介绍大人物背后的故事，由人民日报主办。","content":"环球人物网是人民日报社主管主办的，中国发行量最大、最具影响力和权威性的综合时政期刊《环球人物》杂志创办的国家一类新闻网站。自2006年创刊以来，《环球人物》杂志凭借强大的采编能力，以及权威、细腻、朴实、生动的报道风格，成功策划报道了《习仲勋家族传奇》《2014年度人物彭丽媛》《朱镕基家事家风》《左宗棠新疆谋略》《被误读的林徽因》《吴秀波，“大叔”的美好时代》等一系列热销选题，受到各界读者广泛好评。2014年8月，环球人物网成功申请到《互联网新闻信息服务许可证》，成为国家一类资质新闻网站，拥有独立新闻采编权。","url":"https://www.globalpeople.com.cn/","author":null,"published_at":"2021-10-29T05:07:18.000Z","tags":[{"name":"资讯","slug":"news"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"环球人物","slug":"globalpeople"}},
+    "staticQueryHashes": ["63159454"]}

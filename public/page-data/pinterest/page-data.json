@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/pinterest",
+    "result": {"data":{"strapiArticles":{"id":"Articles_20","title":"pinterest","description":"图片智能搜索引擎，涵盖生活技巧、时尚搭配、室内设计等，超4.5亿人在用。【需要梯子】","content":"一个图像搜索应用程序，包含众多生活技巧(时尚搭配、生活技巧、日常食谱、室内设计等)，使用的越多，推荐的越符合您的想法，全球每月超4.5亿人在使用。\n\n访问比较慢，需要梯子。","url":"https://pinterest.com/","author":null,"published_at":"2021-09-18T01:06:13.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"pinterest","slug":"pinterest"}},
+    "staticQueryHashes": ["63159454"]}

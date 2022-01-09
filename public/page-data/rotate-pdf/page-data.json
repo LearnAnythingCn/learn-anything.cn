@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/rotate-pdf",
+    "result": {"data":{"strapiArticles":{"id":"Articles_242","title":"旋转PDF","description":"旋转PDF文件内的单页或整份文件，无大小限制、无广告水印。","content":"旋转PDF - 免费线上旋转页面\n文件大小并无限制，而且无广告水印 – 一款免费简单的工具以旋转PDF文件内的单页或整份文件，然后永久地将它们保留下来。","url":"https://smallpdf.com/cn/rotate-pdf","author":null,"published_at":"2021-10-31T03:28:37.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"旋转PDF","slug":"rotate-pdf"}},
+    "staticQueryHashes": ["63159454"]}

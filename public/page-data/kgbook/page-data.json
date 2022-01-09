@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/kgbook",
+    "result": {"data":{"strapiArticles":{"id":"Articles_37","title":"苦瓜书盘","description":"提供6寸pdf、mobi等格式中文电子书上传及下载。","content":"提供6寸pdf、mobi等格式电子书上传及下载。","url":"https://kgbook.com/","author":null,"published_at":"2021-09-18T04:49:41.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"苦瓜书盘","slug":"kgbook"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/mohrss-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_278","title":"人力资源社会保障部","description":"中华人民共和国人力资源和社会保障部官方网站。","content":"人力资源和社会保障部是统筹机关企事业单位人员管理和统筹城乡就业和社会保障政策的中国国家权力机构。主要职责包括负责促进就业工作，拟订就业援助制度，完善职业资格制度，牵头拟订高校毕业生就业政策，统筹建立覆盖城乡的社会保障体系等工作。","url":"http://www.mohrss.gov.cn","author":null,"published_at":"2021-10-31T12:58:16.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"人力资源社会保障部","slug":"mohrss-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

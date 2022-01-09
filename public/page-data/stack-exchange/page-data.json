@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/stack-exchange",
+    "result": {"data":{"strapiArticles":{"id":"Articles_194","title":"Stack Exchange","description":"拥有 173 个不同行业的问题与答案，包含全球最大编程问答平台Stack Overflow，月访问人数5400万。","content":"Hot Questions - Stack Exchange\nLaunched in 2010, the Stack Exchange network comprises 173 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers. \n拥有 173 个不同行业的问题与答案，包含全球最大的程序员问答社区Stack Overflow，月访问人数5400万。","url":"https://stackexchange.com/","author":null,"published_at":"2021-10-28T09:46:51.000Z","tags":[{"name":"问答","slug":"qa"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Stack Exchange","slug":"stack-exchange"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/jiumodiary",
+    "result": {"data":{"strapiArticles":{"id":"Articles_33","title":"鸠摩","description":"中文电子书搜索引擎，提供中文电子图书搜索和免费下载。","content":"中文电子书搜索引擎，提供免费中文电子图书搜索及下载。","url":"https://www.jiumodiary.com/","author":null,"published_at":"2021-09-18T04:24:06.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"鸠摩","slug":"jiumodiary"}},
+    "staticQueryHashes": ["63159454"]}

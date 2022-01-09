@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/zhishikoo",
+    "result": {"data":{"strapiArticles":{"id":"Articles_121","title":"书籍知识库","description":"提供优质中文电子书籍的免费查询和下载服务，格式包括mobi、azw3、PDF、epub等。","content":"提供优质电子书籍的免费查询和下载服务，格式包括mobi、azw3、PDF、epub等。","url":"https://book.zhishikoo.com/","author":null,"published_at":"2021-10-16T12:56:43.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"书籍知识库","slug":"zhishikoo"}},
+    "staticQueryHashes": ["63159454"]}

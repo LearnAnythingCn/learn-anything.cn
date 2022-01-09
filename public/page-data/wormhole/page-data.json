@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/wormhole",
+    "result": {"data":{"strapiArticles":{"id":"Articles_418","title":"Wormhole","description":"文件加密共享工具，单个文件最大支持10G，只能通过生成的链接下载和解密文件。","content":"###### Wormhole\n简单、私密的文件共享，让你能以端到端加密和自动过期链接的方式分享文件。\n\n文件加密共享工具，单个文件最大支持10G，只能通过生成的链接下载和解密文件。","url":"https://wormhole.app/","author":null,"published_at":"2021-11-28T02:00:00.000Z","tags":[{"name":"软件","slug":"software"},{"name":"下载工具","slug":"download-tools"},{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Wormhole","slug":"wormhole"}},
+    "staticQueryHashes": ["63159454"]}

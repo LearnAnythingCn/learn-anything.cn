@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/cnipa-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_314","title":"国家知识产权局","description":"国家知识产权局官方网站。","content":"国家知识产权局的主要职责是:负责拟订和组织实施国家知识产权战略。拟订加强知识产权强国建设的重大方针政策和发展规划。拟订和实施强化知识产权创造、保护和运用的管理政策和制度。负责保护知识产权。拟订严格保护商标、专利、原产地地理标志、集成电路布图设计等知识产权制度并组织实施等。","url":"https://www.cnipa.gov.cn","author":null,"published_at":"2021-10-31T13:32:39.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家知识产权局","slug":"cnipa-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

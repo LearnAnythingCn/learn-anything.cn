@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/wanwang",
+    "result": {"data":{"strapiArticles":{"id":"Articles_51","title":"万网","description":"提供（域名、商标、专利、公司注册、公司资质、logo）查询、注册、设计等服务。","content":"提供（域名、商标、专利、公司注册、公司资质、logo）查询、注册、设计等服务。","url":"https://wanwang.aliyun.com/","author":null,"published_at":"2021-09-21T04:22:29.000Z","tags":[{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"万网","slug":"wanwang"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/academia",
+    "result": {"data":{"strapiArticles":{"id":"Articles_16","title":"Academia","description":"超过2200万篇论文及学术资料可供免费查阅，注册用户达1650万，月访问量3100万。","content":"拥有2200万篇论文及学术资料可供免费查阅，网站注册人数达1650万，月访问量3100万。\n\n","url":"https://www.academia.edu/","author":null,"published_at":"2021-09-17T16:22:58.000Z","tags":[{"name":"论文资料","slug":"paper-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Academia","slug":"academia"}},
+    "staticQueryHashes": ["63159454"]}

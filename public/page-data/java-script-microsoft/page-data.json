@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/java-script-microsoft",
+    "result": {"data":{"strapiArticles":{"id":"Articles_430","title":"JavaScript学习","description":"Microsoft提供的 JavaScript 学习资源，包括语法、开发工具等。","content":"Microsoft 为 JavaScript 开发人员提供的所有内容。 入门资源、应用程序开发和生产环节。 面向 JavaScript 开发人员的工具。 社区中的公告和最新动态。","url":"https://docs.microsoft.com/zh-cn/javascript/","author":null,"published_at":"2021-12-03T11:36:32.000Z","tags":[{"name":"JavaScript","slug":"java-script"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"JavaScript学习","slug":"java-script-microsoft"}},
+    "staticQueryHashes": ["63159454"]}

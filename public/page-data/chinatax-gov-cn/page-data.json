@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/chinatax-gov-cn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_294","title":"税务总局","description":"国家税务总局官方网站。","content":"税务总局是国务院主管税收工作的直属机构。主要职责包括起草税收法律法规草案及实施细则并提出税收政策建议，承担组织实施中央税、共享税及法律法规规定的基金（费）的征收管理责任，负责规划和组织实施纳税服务体系建设等工作。","url":"http://www.chinatax.gov.cn/index.html","author":null,"published_at":"2021-10-31T13:15:31.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"税务总局","slug":"chinatax-gov-cn"}},
+    "staticQueryHashes": ["63159454"]}

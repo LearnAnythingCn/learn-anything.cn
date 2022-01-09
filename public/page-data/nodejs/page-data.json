@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/nodejs",
+    "result": {"data":{"strapiArticles":{"id":"Articles_69","title":"nodejs","description":"基于Chrome V8引擎的JS 运行平台，异步事件驱动，构建可扩展的网络应用。","content":"基于Chrome V8引擎的JavaScript 运行时环境，异步事件驱动，构建可扩展的网络应用。","url":"https://nodejs.org/zh-cn/","author":null,"published_at":"2021-09-23T03:28:42.000Z","tags":[{"name":"Nodejs","slug":"nodejs"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"nodejs","slug":"nodejs"}},
+    "staticQueryHashes": ["63159454"]}

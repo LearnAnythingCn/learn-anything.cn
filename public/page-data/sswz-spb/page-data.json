@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/sswz-spb",
+    "result": {"data":{"strapiArticles":{"id":"Articles_50","title":"快递维权","description":"不满意快递公司的处理结果，可向国家邮政部门投诉，包含国内所有快递公司。","content":"快递维权，对快递公司的处理结果不满意、或投诉无人受理、或投诉后超7日没有处理结果，可向国家邮政局申诉。","url":"https://sswz.spb.gov.cn/index.html","author":null,"published_at":"2021-09-21T04:05:52.000Z","tags":[{"name":"投诉举报","slug":"complaint-report"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"快递维权","slug":"sswz-spb"}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/airpano",
+    "result": {"data":{"strapiArticles":{"id":"Articles_136","title":"airpano","description":"基于VR技术，带你360°全景高清环游世界，不用出门也可享受一场视觉盛宴。","content":"AirPano is a VR project created by a team of Russian photographers focused on taking high-resolution aerial 360° photographs and 360° video. Today AirPano is the largest virtual travel resource in the world -- by geographical coverage, number of aerial photographs, and artistic and technical quality of the images — featuring 360° panoramas and 360° videos of the highest quality shot from a bird's eye view.\n","url":"https://www.airpano.com/","author":null,"published_at":"2021-10-20T06:35:33.000Z","tags":[{"name":"有意思","slug":"funny-things"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"airpano","slug":"airpano"}},
+    "staticQueryHashes": ["63159454"]}

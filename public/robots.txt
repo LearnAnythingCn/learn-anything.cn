@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://learn-anything.cn/sitemap-pages.xml
+Host: https://learn-anything.cn

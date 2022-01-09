@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/quora",
+    "result": {"data":{"strapiArticles":{"id":"Articles_55","title":"quora","description":"类似「知乎」的在线问答平台，早于知乎，愿景是挖掘网络上没有的知识。[需要梯子]","content":"类似「知乎」的在线问答网站，汇集了许多问题和答案，但比知乎早两年成立，愿景是挖掘出网络上没有的维基知识。","url":"https://www.quora.com/","author":null,"published_at":"2021-09-21T05:38:23.000Z","tags":[{"name":"问答","slug":"qa"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"quora","slug":"quora"}},
+    "staticQueryHashes": ["63159454"]}

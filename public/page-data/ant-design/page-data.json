@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/ant-design",
+    "result": {"data":{"strapiArticles":{"id":"Articles_70","title":"AntDesign","description":"一套企业级UI设计语言和React组件库，用于研发企业级中后台产品。","content":"一套企业级UI设计语言和React组件库，用于研发企业级中后台产品。\n","url":"https://ant.design/index-cn","author":null,"published_at":"2021-09-23T03:33:01.000Z","tags":[{"name":"Ant Design","slug":"ant-design"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"AntDesign","slug":"ant-design"}},
+    "staticQueryHashes": ["63159454"]}

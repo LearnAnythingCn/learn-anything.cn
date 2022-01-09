@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-movie-movie-detail-gen-js",
+    "path": "/movie/my-mister",
+    "result": {"data":{"strapiMovies":{"id":"Movies_16","slug":"my-mister","title":"我的大叔","author":"佚名","description":"韩国tvN于2018年3月21日起播出的水木连续剧，由《Signal》金元锡导演执导与《又，吴海英》朴惠英作家合作打造。此剧以拥有相同沉重的生活负担40岁男人与20岁女人出发，讲述他们互相观察并治愈对方的故事。","content":"###### 一、简介\n韩国tvN于2018年3月21日起播出的水木连续剧，由《Signal》金元锡导演执导与《又，吴海英》朴惠英作家合作打造。此剧以拥有相同沉重的生活负担40岁男人与20岁女人出发，讲述他们互相观察并治愈对方的故事。\n\n###### 二、观看链接\n- [链接1：我的大叔](https://ddrk.me/my-mister/)","rank":50,"published_at":"2022-01-01T16:58:49.000Z","movie_tags":[{"slug":"tv-series-hot","name":"必看电视剧"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"slug":"my-mister"}},
+    "staticQueryHashes": ["63159454"]}

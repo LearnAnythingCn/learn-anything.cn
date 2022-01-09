@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/yarn",
+    "result": {"data":{"strapiArticles":{"id":"Articles_177","title":"yarn","description":"与npm一样可以下载、使用他人共享的JS项目，但是对npm的一些缺陷做了优化。","content":"Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.\nFast, reliable, and secure dependency management.\n与npm一样可以下载、使用他人共享的JavaScript项目，但是对npm的一些缺陷做了优化。","url":"https://yarnpkg.com/","author":null,"published_at":"2021-10-28T01:39:14.000Z","tags":[{"name":"yarn","slug":"yarn"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"yarn","slug":"yarn"}},
+    "staticQueryHashes": ["63159454"]}

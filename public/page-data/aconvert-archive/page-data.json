@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/aconvert-archive",
+    "result": {"data":{"strapiArticles":{"id":"Articles_259","title":"压缩文件格式转换","description":"提供压缩文件格式相互转换：将任何文件压缩到7Z，GZIP，TAR，ZIP或WIM文件。","content":"在线转换压缩文件\n将压缩文件从一种格式转换到另一种格式，或将任何文件压缩到7Z，GZIP，TAR，ZIP或WIM文件。","url":"https://www.aconvert.com/cn/archive/","author":null,"published_at":"2021-10-31T06:35:33.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"压缩文件格式转换","slug":"aconvert-archive"}},
+    "staticQueryHashes": ["63159454"]}

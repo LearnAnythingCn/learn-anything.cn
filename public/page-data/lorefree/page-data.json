@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/lorefree",
+    "result": {"data":{"strapiArticles":{"id":"Articles_36","title":"lorefree","description":"首个去中心化免费中文电子书共享社区，7万多本电子书可供下载。","content":"首个去中心化免费电子书共享社区，通过区块链技术，打造一个全球范围的高质量知识共享社区，让每个人都能自由地获取到知识。","url":"https://ebook2.lorefree.com/","author":null,"published_at":"2021-09-18T04:45:09.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"lorefree","slug":"lorefree"}},
+    "staticQueryHashes": ["63159454"]}

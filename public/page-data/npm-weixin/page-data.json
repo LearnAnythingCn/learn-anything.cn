@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/npm-weixin",
+    "result": {"data":{"strapiArticles":{"id":"Articles_317","title":"微信小程序开发中支持npm！","description":"微信小程序开发中，引入npm。","content":"##### 一、问题说明\n\n微信小程序开发中支持npm。\n\n---\n\n##### 二、解决步骤\n\n###### 1、npm 初始化及安装 qs 包\n\n```shell\ncd <小程序项目根目录>\n\nnpm init\n\nnpm install qs@5.2.1\n```\n\n###### 2、微信开发工具设置\n\n```\n微信开发工具 ： 菜单工具 -> 构建 npm\n\n微信开发工具 ： 界面右上角 -> 详情 -> 本地设置  ->  勾选  [使用 npm 模块]\n```\n\n###### 3、使用qs\n\n```js\nvar qs = require('qs');\nconst query = qs.stringify(params);\n```\n\n---\n\n##### 三、参考文档\n\n- [支持 npm - 微信小程序 ](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)\n\n\n","url":"https://learn-anything.cn/npm-weixin","author":null,"published_at":"2021-11-01T05:01:04.000Z","tags":[{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"微信小程序开发中支持npm！","slug":"npm-weixin"}},
+    "staticQueryHashes": ["63159454"]}

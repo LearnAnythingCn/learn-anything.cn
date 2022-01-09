@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/kepuchina",
+    "result": {"data":{"strapiArticles":{"id":"Articles_192","title":"科普中国","description":"提供科学、权威、准确的科普信息内容和相关资讯，由中国科学技术出版社主办。","content":"科普中国网隶属于中国科学技术出版社有限公司，基于科普中国服务云公众入口、具有个性化定制和自动推送服务的门户网站。\n\n科普中国网以“众创、严谨、共享”为宗旨，以“让科技知识在网上和生活中流行”为理念，旨在向全社会提供科学、权威、准确的科普信息内容和相关资讯。\n\n网站内容分为前沿科技、健康生活、科普乐园、V视快递、实用技术、玩转科学等24个频道。网站汇聚优质内容，策划专项专题；实时新闻导入，科学解读热点。","url":"https://www.kepuchina.cn/","author":null,"published_at":"2021-10-28T08:02:13.000Z","tags":[{"name":"日常科普","slug":"popularization-of-science"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"科普中国","slug":"kepuchina"}},
+    "staticQueryHashes": ["63159454"]}

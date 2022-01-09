@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/youbianku",
+    "result": {"data":{"strapiArticles":{"id":"Articles_31","title":"邮编库","description":"可查询任意地址的邮编、所属街道、社区居委会等信息。","content":"提供国内任意地址的邮编查询、国际邮编查询、邮编反向查询、任意地址所属街道办事处和社区居委会查询等功能。","url":"https://www.youbianku.com/","author":null,"published_at":"2021-09-18T03:58:43.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"邮编库","slug":"youbianku"}},
+    "staticQueryHashes": ["63159454"]}

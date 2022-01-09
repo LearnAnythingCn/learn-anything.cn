@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/icp-beian",
+    "result": {"data":{"strapiArticles":{"id":"Articles_141","title":"ICP备案查询","description":"域名、IP地址、公司等备案信息查询。","content":"域名备案信息查询、IP地址备案信息查询、根据公司名称查询其备案的域名有哪些？\n\n关键词：域名备案","url":"https://beian.miit.gov.cn/#/Integrated/recordQuery","author":null,"published_at":"2021-10-21T03:11:54.000Z","tags":[{"name":"数据查询","slug":"gov-cn-data"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"ICP备案查询","slug":"icp-beian"}},
+    "staticQueryHashes": ["63159454"]}
