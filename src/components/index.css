@@ -1,0 +1,4 @@
+/* 采用ant design默认字体，自动设置失败，这里手动设置 */
+.ant-layout{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
