@@ -11,7 +11,8 @@ module.exports = {
     production : {
       user : 'learn',
       host : '101.200.127.218',
-      ref  : 'origin/master',
+      ref  : 'origin/main',
+      // ref  : 'origin/master',
       repo : 'git@github.com:LearnAnythingCn/learn-anything.cn.git',
       // gitee
       // repo : 'git@gitee.com:learn-anything/learn-anything.cn.git',
