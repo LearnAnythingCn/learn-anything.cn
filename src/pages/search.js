@@ -35,13 +35,22 @@ const SearchPage = ({ location, data }) => {
     () => {
       if (query) {
         // 采用 strapi 的REST API 方式进行查询 - 2021年12月30日
-        axios.get('https://api.learn-anything.cn/Articles', {
-          params: {
-            title_contains: query,
-            description_contains: query,
-            content_contains: query
-          }
-        })
+
+        const qs = require('qs');
+        const queryData = qs.stringify({
+          _where: {
+            _or: [
+              { title_contains: query },
+              { description_contains: query },
+              { content_contains: query }
+            ]
+          },
+          _limit: 30
+        }
+        );
+
+        axios.get(`https://api.learn-anything.cn/Articles?${queryData}`)
+          // {params:queryData})
           .then(function (response) {
             setResults(response.data);
             setLoading(false);
@@ -53,10 +62,10 @@ const SearchPage = ({ location, data }) => {
           .then(function () {
             // 总是会执行
           });
-        }else{
-          // setResults([]);
-          setLoading(false);
-        }
+      } else {
+        // setResults([]);
+        setLoading(false);
+      }
 
     },
     [query]
@@ -124,7 +133,7 @@ const SearchPage = ({ location, data }) => {
                 style={{ left: 0, right: 0, width: 300, marginTop: 84, borderRadius: 20, margin: 'auto' }}
                 onSearch={(text) => {
                   if (text.trim() !== "") {
-                    if(text !== query){
+                    if (text !== query) {
                       setLoading(true);
                       setQuery(text)
                     }
