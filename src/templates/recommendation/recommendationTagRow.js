@@ -79,6 +79,7 @@ const RecommendationTagRow = ({ location, name, tagsData, more, allShow, fixPath
             {
                 paginationShow ?
                     <Pagination defaultCurrent={1} current={pagination.currentPage} pageSize={pagination.pageSize} total={pagination.total}
+                        showSizeChanger = {false}    
                         style={{ textAlign: 'center' }}
                         onChange={
                             (e) => {

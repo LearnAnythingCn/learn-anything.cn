@@ -88,6 +88,7 @@ const MovieTagRow = ({ name, tagsData, more, allShow, pagination }) => {
                 {
                     paginationShow ?
                         <Pagination defaultCurrent={1} current={pagination.currentPage} pageSize={pagination.pageSize} total={pagination.total}
+                            showSizeChanger = {false}
                             style={{ textAlign: 'center', paddingTop:20 }}
                             onChange={
                                 (e) => {
