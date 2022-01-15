@@ -44,6 +44,7 @@ export const movieQueryAll = graphql`
               author
               description
               rank
+              updated_at
               image {
                 localFile {
                   childImageSharp {

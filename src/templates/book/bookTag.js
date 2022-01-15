@@ -8,7 +8,6 @@ const { Content } = Layout;
 
 
 const BookTag = ({ node, allShow }) => {
-    
     let more;
     if (node.allStrapiBookTags.edges.length > 1) {
         more = "/tag/";
@@ -21,7 +20,10 @@ const BookTag = ({ node, allShow }) => {
                 }
                 {
                     node.allStrapiBookTags.edges.map(element => {
-                        
+                        // 按照 updated_at 进行降序排序
+                        element.node.books.sort(function (a, b) {
+                            return (new Date(b.updated_at) - new Date(a.updated_at))
+                        });
                         return (
                             <BookTagRow
                                 key={element.node.name + "ComputerLabelItem"}

@@ -66,6 +66,7 @@ export const queryMovieTagsData = graphql`
               filter: {movie_tags: {elemMatch: {slug: {eq: $slug}}}}
               limit: $pageSize
               skip: $skip
+              sort: {fields: updated_at, order: DESC}
             ){
               nodes {
                 slug

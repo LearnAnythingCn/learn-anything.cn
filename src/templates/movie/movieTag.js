@@ -21,6 +21,11 @@ const MovieTag = ({ node, allShow }) => {
                 }
                 {
                     node.allStrapiMovieTags.edges.map(element => {
+                        // 按照 updated_at 进行降序排序
+                        element.node.movies.sort(function (a, b) {
+                            return (new Date(b.updated_at) - new Date(a.updated_at))
+                        });
+
                         return (
                             <MovieTagRow
                                 key={element.node.slug + "MovieTagRow"}

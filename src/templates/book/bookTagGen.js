@@ -65,6 +65,7 @@ export const queryBookTagsData = graphql`
               filter: {book_tags: {elemMatch: {slug: {eq: $slug}}}}
               limit: $pageSize
               skip: $skip
+              sort: {fields: updated_at, order: DESC}
             ){
               nodes {
                 slug
