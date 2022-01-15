@@ -31,7 +31,7 @@ export const bookQueryAll = graphql`
   query bookQueryAll {
 
     allStrapiBookTags (
-      sort: {fields: books___rank, order: ASC}
+      sort: {fields: rank, order: ASC}
     ){
         edges {
           node {

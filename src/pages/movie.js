@@ -31,7 +31,7 @@ export const movieQueryAll = graphql`
   query movieQueryAll {
 
     allStrapiMovieTags (
-      sort: {fields: movies___rank, order: ASC}
+      sort: {fields: rank, order: ASC}
     ){
         edges {
           node {
