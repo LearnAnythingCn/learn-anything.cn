@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
-    "path": "/douban-movie-select",
-    "result": {"data":{"strapiArticles":{"id":"Articles_184","title":"选影视","description":"豆瓣根据影片类型、地区、年代、特色等分类，筛选出高分影片。","content":"豆瓣根据影片类型、地区、年代、特色等分类，筛选出高分影片。","url":"https://movie.douban.com/tag/#/?sort=T&range=0,10&tags=","author":null,"published_at":"2021-10-28T05:38:57.000Z","tags":[{"name":"影榜热评","slug":"movie-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"选影视","slug":"douban-movie-select"}},
-    "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
-    "path": "/douban-book-psychology",
-    "result": {"data":{"strapiArticles":{"id":"Articles_190","title":"心理学书单","description":"有关心理学的热门图书。","content":"豆瓣上有关心理学的热门图书。","url":"https://book.douban.com/tag/%E5%BF%83%E7%90%86%E5%AD%A6","author":null,"published_at":"2021-10-28T05:56:38.000Z","tags":[{"name":"书榜热评","slug":"book-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"心理学书单","slug":"douban-book-psychology"}},
-    "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
-    "path": "/douban-book-comment-hot",
-    "result": {"data":{"strapiArticles":{"id":"Articles_188","title":"图书热评","description":"豆瓣最受欢迎的书评。","content":"豆瓣最受欢迎的书评：如果你觉得一篇评论对你有帮助，请你点击“有用”。你的投票直接决定哪些评论出现在豆瓣首页和“豆瓣最受欢迎的评论”里，以及在书、电影和音乐介绍页里评论的排序。","url":"https://book.douban.com/review/best/","author":null,"published_at":"2021-10-28T05:49:39.000Z","tags":[{"name":"书榜热评","slug":"book-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"图书热评","slug":"douban-book-comment-hot"}},
-    "staticQueryHashes": ["63159454"]}

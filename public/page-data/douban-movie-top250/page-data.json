@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
-    "path": "/douban-movie-top250",
-    "result": {"data":{"strapiArticles":{"id":"Articles_182","title":"电影TOP250","description":"豆瓣根据每部影片看过的人数以及该影片所得的评价等综合数据，通过算法分析产生豆瓣电影 Top 250。","content":"豆瓣用户每天都在对“看过”的电影进行“很差”到“力荐”的评价，豆瓣根据每部影片看过的人数以及该影片所得的评价等综合数据，通过算法分析产生豆瓣电影 Top 250。","url":"https://movie.douban.com/top250","author":null,"published_at":"2021-10-28T05:33:13.000Z","tags":[{"name":"影榜热评","slug":"movie-list"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"电影TOP250","slug":"douban-movie-top250"}},
-    "staticQueryHashes": ["63159454"]}
