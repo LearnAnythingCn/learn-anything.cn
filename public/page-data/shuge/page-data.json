@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/shuge",
-    "result": {"data":{"strapiArticles":{"id":"Articles_45","title":"书格","description":"可下载公共版权的古籍善本电子书，高清彩色PDF格式，从宋元珍本，明清善本到近代刊本。","content":"下载公共版权的古籍善本电子书，高清彩色PDF格式，从宋元珍本，明清善本到近代刊本。","url":"https://shuge.org/","author":null,"published_at":"2021-09-18T07:41:53.000Z","tags":[{"name":"古籍","slug":"ancient-books"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"书格","slug":"shuge"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_45","title":"书格","description":"可下载公共版权的古籍善本电子书，高清彩色PDF格式，从宋元珍本，明清善本到近代刊本。","content":"下载公共版权的古籍善本电子书，高清彩色PDF格式，从宋元珍本，明清善本到近代刊本。","url":"https://shuge.org/","author":null,"published_at":"2021-09-18T07:41:53.000Z","tags":[{"name":"古籍","slug":"ancient-book-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"书格","slug":"shuge"}},
     "staticQueryHashes": ["63159454"]}
