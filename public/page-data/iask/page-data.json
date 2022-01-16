@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
-    "path": "/iask",
-    "result": {"data":{"strapiArticles":{"id":"Articles_35","title":"爱问共享资料","description":"在线资料分享平台，包含教育、IT、娱乐生活、经济管理、办公文书、游戏等。","content":"在线资料分享平台，包含了千万网友上传的多种格式的文档，同时也提供海量资料的免费下载，内容涉及教育资源、专业资料、IT资料、娱乐生活、经济管理、办公文书、游戏资料等。","url":"https://ishare.iask.sina.com.cn/","author":null,"published_at":"2021-09-18T04:38:35.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"},{"name":"论文资料","slug":"paper-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"爱问共享资料","slug":"iask"}},
-    "staticQueryHashes": ["63159454"]}
