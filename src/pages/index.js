@@ -85,7 +85,7 @@ export const pageQueryAll = graphql`
 
     recoHot:allStrapiArticles(
       filter: {recommendations: {elemMatch: {slug: {eq: "hot"}}}}
-      limit: 6
+      limit: 10
       sort: {fields: updated_at, order: DESC}
     ) {
       nodes {
@@ -107,7 +107,7 @@ export const pageQueryAll = graphql`
 
     recoCode:allStrapiArticles(
       filter: {recommendations: {elemMatch: {slug: {eq: "code"}}}}
-      limit: 6
+      limit: 10
       sort: {fields: updated_at, order: DESC}
     ) {
       nodes {
