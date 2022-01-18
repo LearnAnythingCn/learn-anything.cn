@@ -8,6 +8,8 @@ import 'antd/dist/antd.compact.css';// 引入官方提供的「紧凑样式」�
 import { Input, Layout, Row, BackTop } from 'antd';
 import FooterTemplate from "../templates/footer";
 import SearchResultList from "../templates/search/searchResultList";
+import SearchBookResultList from "../templates/book/searchResultList";
+import SearchMovieResultList from "../templates/movie/searchResultList";
 import AdsImg from "../templates/adImg";
 import { Content } from "antd/lib/layout/layout";
 import { QuestionCircleOutlined } from '@ant-design/icons';
@@ -28,8 +30,15 @@ const SearchPage = ({ location, data }) => {
   }
 
   const [query, setQuery] = useState(text)
+  // 所有查询都没有结果时，使用文章查询的默认推荐站点
+  const [recommendArticleShow, setRecommendArticleShow] = useState(true)
   const [loading, setLoading] = useState(true)
+  // 查询 文章 数据结果
   const [results, setResults] = useState([])
+  // 查询 图书 数据结果
+  const [resultsBook, setBookResults] = useState([])
+  // 查询 电影 数据结果
+  const [resultsMovie, setMovieResults] = useState([])
 
   useEffect(
     () => {
@@ -49,19 +58,59 @@ const SearchPage = ({ location, data }) => {
         }
         );
 
-        axios.get(`https://api.learn-anything.cn/Articles?${queryData}`)
-          // {params:queryData})
-          .then(function (response) {
-            setResults(response.data);
-            setLoading(false);
-          })
+        const promiseArticle = axios.get(`https://api.learn-anything.cn/Articles?${queryData}`);
+        const promiseBook = axios.get(`https://api.learn-anything.cn/books?${queryData}`);
+        const promiseMovie = axios.get(`https://api.learn-anything.cn/movies?${queryData}`);
+
+        Promise.all([promiseArticle, promiseBook, promiseMovie]).then((values) => {
+            // // 查询 文章 数据
+            // if (values[0].data.length > 0) {
+            //   console.log("文章数据：", values[0].data)
+              
+            // }
+
+            // // 查询 图书 数据
+            // if (values[1].data.length > 0) {
+            //   console.log("图书数据：", values[1].data)
+              
+            // }
+
+            // // 查询 电影 数据
+            // if (values[2].data.length > 0) {
+            //   console.log("电影数据：", values[2].data)
+              
+            // }
+            // 是否有数据？
+            let bData = false;
+            values.forEach((ele, index)=>{
+              if(index === 0){
+                setResults(ele.data);
+              }else if(index === 1){
+                setBookResults(ele.data);
+              }else if(index === 2){
+                setMovieResults(ele.data);
+              }
+
+              if(ele.data.length > 0){
+                bData = true;
+              }
+            })
+            setRecommendArticleShow(!bData);
+            
+        })
           .catch(function (error) {
             console.log(error);
             setResults([]);
+            setBookResults([]);
+            setMovieResults([]);
+            setRecommendArticleShow(true);
           })
           .then(function () {
             // 总是会执行
+            setLoading(false);
           });
+
+        
       } else {
         // setResults([]);
         setLoading(false);
@@ -147,7 +196,13 @@ const SearchPage = ({ location, data }) => {
 
         <div style={{ minHeight: 'calc(100vh - 192px)' }}>
           {
-            loading ? <Loading /> : <SearchResultList query={query} results={results} />
+            loading ? <Loading /> : <SearchResultList query={query} results={results} recommendShow={recommendArticleShow} />
+          }
+          {
+            loading ? <></> : <SearchBookResultList query={query} results={resultsBook}  recommendShow={false}/>
+          }
+          {
+            loading ? <></> : <SearchMovieResultList query={query} results={resultsMovie}  recommendShow={false}/>
           }
           <div style={{ margin: "10px 10px 0 10px" }}>
             <AdsImg />

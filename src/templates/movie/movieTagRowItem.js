@@ -5,7 +5,6 @@ import logo from "../../images/learn-anything-icon.png"
 
 const MovieTagRowItem = ({ colNum, tagsData, allShow }) => {
 
-    console.log("MovieTagRowItem :",tagsData);
     var itemShow = 1;
 
     return tagsData.map(element => {

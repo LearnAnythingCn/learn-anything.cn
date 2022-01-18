@@ -1,8 +1,9 @@
 import React from "react"
 import TagPage from "../tag/tagPage"
 import z_libImg from "../../images/z_lib.png"
-import lorefreeImg from "../../images/lorefree.jpg"
-import jiumodiaryImg from "../../images/jiumodiary.png"
+import ddrkImg from "../../images/ddrk.png"
+import newfiiImg from "../../images/newfii.png"
+import yanetflixImg from "../../images/yanetflix.png"
 import shadowsocksImg from "../../images/shadowsocks.png"
 
 const SearchOutside = ({search}) => {
@@ -16,19 +17,26 @@ const SearchOutside = ({search}) => {
     z_lib.url = "https://zh.ng1lib.org/s/" + search;
     results.push(z_lib);
 
-    let lorefree={};
-    lorefree.title = "lorefree";
-    lorefree.desc = "首个去中心化免费中文电子书共享社区，7万多本电子书可供下载。";
-    lorefree.imgLocal = lorefreeImg;
-    lorefree.url = "https://ebook2.lorefree.com/site/index?s=" + search;
-    results.push(lorefree);
+    let ddrk = {};
+    ddrk.title = "低端影视";
+    ddrk.desc = "超清在线视频网站（电视剧、电影、美剧、日剧、韩剧、新番、动画等），速度很快。";
+    ddrk.imgLocal = ddrkImg;
+    ddrk.url = "https://ddrk.me/";
+    results.push(ddrk);
 
-    let jiumodiary={};
-    jiumodiary.title = "鸠摩";
-    jiumodiary.desc = "中文电子书搜索引擎，提供中文电子图书搜索和免费下载。";
-    jiumodiary.imgLocal = jiumodiaryImg;
-    jiumodiary.url = "https://www.jiumodiary.com/";
-    results.push(jiumodiary);
+    let newfii = {};
+    newfii.title = "奈飞中文电影";
+    newfii.desc = "免费在线观看奈飞电影、电视剧、动漫、综艺，高清速度快！";
+    newfii.imgLocal = newfiiImg;
+    newfii.url = "https://yanetflix.com/index.php/vod/search.html?wd=" + search;
+    results.push(newfii);
+
+    let yanetflix = {};
+    yanetflix.title = "奈落影院";
+    yanetflix.desc = "在线免费观看高清电影、电视剧、综艺，无弹窗、速度快。";
+    yanetflix.imgLocal = yanetflixImg;
+    yanetflix.url = "https://newfii.com/index.php/vod/search.html?wd=" + search;
+    results.push(yanetflix);
 
     let shadowsocks={};
     shadowsocks.title = "shadowsocks";

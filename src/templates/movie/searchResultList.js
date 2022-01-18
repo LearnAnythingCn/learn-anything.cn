@@ -3,9 +3,13 @@ import MovieTagRow from "./movieTagRow";
 import SearchOutside from "./searchOutside";
 
 
-const SearchResultList = ({ query, results }) => {
+const SearchResultList = ({ query, results, recommendShow }) => {
 
-  console.log("SearchResultList:", results);
+  let bShow = true;
+  if (recommendShow !== undefined) {
+    bShow = recommendShow;
+  }
+
   return (
     <>
       {
@@ -16,10 +20,13 @@ const SearchResultList = ({ query, results }) => {
           />
 
         ) : (
-          <div>
-            <SearchOutside search={query} />
-          </div>
 
+          bShow ?
+            (<div>
+              <SearchOutside search={query} />
+            </div>)
+            :
+            (<></>)
         )
       }
     </>
