@@ -16,7 +16,7 @@ const BookTag = ({ node, allShow }) => {
         <Layout>
             <Content style={{ minHeight: '100vh', maxWidth: 960, left: 0, right: 0, width: '100%', margin: 'auto' }}>
                 {
-                    <SearchInput />
+                    <SearchInput url={"/search-book/?input="}/>
                 }
                 {
                     node.allStrapiBookTags.edges.map(element => {

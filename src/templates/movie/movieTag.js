@@ -17,7 +17,7 @@ const MovieTag = ({ node, allShow }) => {
         <Layout>
             <Content style={{ minHeight: '100vh', maxWidth: 960, left: 0, right: 0, width: '100%', margin: 'auto' }}>
                 {
-                    <SearchInput />
+                    <SearchInput url={"/search-movie/?input="}/>
                 }
                 {
                     node.allStrapiMovieTags.edges.map(element => {

@@ -5,7 +5,9 @@ import logo from "../../images/learn-anything.webp"
 
 const { Search } = Input;
 
-const SearchInput = () => {
+const SearchInput = ({url}) => {
+
+    let urlSearch = url ? url : "/search/?input=";
 
     return (
         <div style={{ margin: "10px 10px 0 10px", backgroundColor: 'white', border: 'solid 1px #ddd', borderRadius: 10 }}>
@@ -28,7 +30,7 @@ const SearchInput = () => {
                         style={{ left: 0, right: 0, width: 300, margin: 'auto' }}
                         onSearch={(text) => {
                             if (text.trim() !== "") {
-                                window.open("/search?input=" + text)
+                                window.open(urlSearch + text)
                             }
                             return;
                         }}

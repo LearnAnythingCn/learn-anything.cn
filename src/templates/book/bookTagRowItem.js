@@ -1,12 +1,35 @@
 import React from "react"
 import { Card, Col } from 'antd';
 import { GatsbyImage } from "gatsby-plugin-image";
+import logo from "../../images/learn-anything-icon.png"
 
 const BookTagRowItem = ({ colNum, tagsData, allShow }) => {
 
     var itemShow = 1;
     return tagsData.map(element => {
         let url = "/book/" + element.slug;
+        if (element.url && element.url.indexOf("https://learn-anything.cn") === -1) {
+            url = element.url;
+        }
+
+
+        var imgUrl = {};
+        imgUrl.type = "StaticImage";
+        imgUrl.url = logo;
+        if (element.image) {
+            if (element.image.localFile) {
+                imgUrl.type = "GatsbyImage";
+                imgUrl.url = element.image.localFile.childImageSharp.gatsbyImageData;
+            } else if (element.image.url) {
+                imgUrl.url = "https://api.learn-anything.cn" + element.image.url;
+            }
+        } else if (element.imgUrl) {
+            imgUrl.url = "https://api.learn-anything.cn" + element.imgUrl;
+        } else if (element.imgLocal) {
+            imgUrl.url = element.imgLocal;
+        }
+
+
 
         if (!allShow) {
             if (colNum === 3 && itemShow > 8) {
@@ -27,16 +50,30 @@ const BookTagRowItem = ({ colNum, tagsData, allShow }) => {
 
         return (
             <Col span={colNum} key={element.slug + "a"} >
-                <a href={url} target="_blank" rel="noreferrer" style={{color:"#888"}}>
+                <a href={url} target="_blank" rel="noreferrer" style={{ color: "#888" }}>
                     <Card
                         hoverable
                         // onClick={() => { window.open(url, "_blank"); }}
                         style={{ width: 100, height: 140, overflow: 'hidden', borderRadius: 15 }}
                         cover={
-                            <GatsbyImage
-                                imgStyle={{ border: 'solid 1px #ddd', borderRadius: 15 }}
-                                image={element.image.localFile.childImageSharp.gatsbyImageData}
-                                alt={element.slug} />
+                            // <GatsbyImage
+                            //     imgStyle={{ border: 'solid 1px #ddd', borderRadius: 15 }}
+                            //     image={element.image.localFile.childImageSharp.gatsbyImageData}
+                            //     alt={element.slug} />
+                            imgUrl.type === "GatsbyImage" ?
+                                (
+                                    // <div style={{ padding: '5px 0 0 4px' }}>
+                                    // <GatsbyImage image={imgUrl.url} alt={itemTitle} imgStyle={{ width: 15, height: 15, border: 'solid 1px #ddd', borderRadius: 15 }} />
+                                    // </div>
+                                    <GatsbyImage
+                                        imgStyle={{ border: 'solid 1px #ddd', borderRadius: 15 }}
+                                        // image={element.image.localFile.childImageSharp.gatsbyImageData}
+                                        image={imgUrl.url}
+                                        alt={element.slug} />
+                                ) :
+                                (
+                                    <img src={imgUrl.url} alt={element.slug} style={{ border: 'solid 1px #ddd', borderRadius: 15 }} />
+                                )
                         }
                     >
                     </Card>
