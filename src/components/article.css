@@ -63,6 +63,20 @@ hr{
   margin-bottom: 10px;
 }
 
+.markdown-body th,
+.markdown-body td{
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 30px;
+  padding-left: 10px;
+  border: 1px solid #ccc;
+}
+
+.markdown-body th:first-child, 
+.markdown-body td:first-child{
+  padding-left: 10px;
+}
+
 /* markdown中引用块的样式调整 */
 blockquote {
     background: #f9f9f9;

@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import "../components/index.css"
 import 'antd/dist/antd.compact.css';// 引入官方提供的「紧凑样式」入口文件
-import "../components/movie.css"
 
 import Seo from "../components/seo.js"
 import MovieTag from "../templates/movie/movieTag.js";
