@@ -77,6 +77,10 @@ hr{
   padding-left: 10px;
 }
 
+.markdown-body p{
+  text-align: justify;
+}
+
 /* markdown中引用块的样式调整 */
 blockquote {
     background: #f9f9f9;
