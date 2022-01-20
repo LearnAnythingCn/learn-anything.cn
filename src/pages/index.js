@@ -66,7 +66,7 @@ export const pageQueryAll = graphql`
     }
 
     allStrapiMovies(
-      filter: {movie_tags: {elemMatch: {slug: {eq: "movie-top"}}}}
+      filter: {movie_tags: {elemMatch: {slug: {eq: "good-reputation-100w"}}}}
       limit: 8
       sort: {fields: updated_at, order: DESC}
     ) {
