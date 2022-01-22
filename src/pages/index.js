@@ -48,7 +48,7 @@ export const pageQueryAll = graphql`
     }
 
     allStrapiBooks(
-      filter: {book_tags: {elemMatch: {slug: {eq: "book-top"}}}}
+      filter: {book_tags: {elemMatch: {slug: {eq: "psychology"}}}}
       limit: 8
       sort: {fields: updated_at, order: DESC}
     ) {
