@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/guokr",
-    "result": {"data":{"strapiArticles":{"id":"Articles_206","title":"果壳网","description":"提供有趣且贴近生活的科技内容，让泛科技成为人们文化生活和娱乐生活的重要元素。","content":"果壳网是一个泛科技主题网站，提供负责任、有智趣、贴近生活的内容，你可以在这里阅读、分享、交流、提问。果壳网致力于让科技兴趣成为人们文化生活和娱乐生活的重要元素。","url":"https://www.guokr.com/","author":null,"published_at":"2021-10-29T05:03:45.000Z","tags":[{"name":"资讯","slug":"news"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"果壳网","slug":"guokr"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_206","title":"果壳网","description":"提供有趣且贴近生活的科技内容，让泛科技成为人们文化生活和娱乐生活的重要元素。","content":"果壳网是一个泛科技主题网站，提供负责任、有智趣、贴近生活的内容，你可以在这里阅读、分享、交流、提问。果壳网致力于让科技兴趣成为人们文化生活和娱乐生活的重要元素。","url":"https://www.guokr.com/","published_at":"2021-10-29T05:03:45.000Z","tags":[{"name":"资讯","slug":"news"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"果壳网","slug":"guokr"}},
     "staticQueryHashes": ["63159454"]}

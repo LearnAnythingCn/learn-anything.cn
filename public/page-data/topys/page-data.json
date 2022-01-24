@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/topys",
-    "result": {"data":{"strapiArticles":{"id":"Articles_198","title":"TOPYS","description":"创意内容平，抢先知晓全球最新鲜、最棒的创意资讯，扩充你的灵感库。","content":"TOPYS | 创意内容平台 OPEN YOUR MIND\n抢先知晓全球最新鲜、最棒的创意资讯，扩充你的灵感库。","url":"https://www.topys.cn/","author":null,"published_at":"2021-10-29T02:56:09.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"TOPYS","slug":"topys"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_198","title":"TOPYS","description":"创意内容平，抢先知晓全球最新鲜、最棒的创意资讯，扩充你的灵感库。","content":"TOPYS | 创意内容平台 OPEN YOUR MIND\n抢先知晓全球最新鲜、最棒的创意资讯，扩充你的灵感库。","url":"https://www.topys.cn/","published_at":"2021-10-29T02:56:09.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"TOPYS","slug":"topys"}},
     "staticQueryHashes": ["63159454"]}

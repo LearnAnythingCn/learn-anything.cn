@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/flutter",
-    "result": {"data":{"strapiArticles":{"id":"Articles_120","title":"Flutter","description":"谷歌开发的一套跨平台UI框架，适用于手机APP、Web应用、桌面应用、嵌入式应用等，一套代码全平台运行。","content":"Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。\n\n","url":"https://flutter.dev/","author":null,"published_at":"2021-10-16T10:54:40.000Z","tags":[{"name":"Flutter","slug":"flutter"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Flutter","slug":"flutter"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_120","title":"Flutter","description":"谷歌开发的一套跨平台UI框架，适用于手机APP、Web应用、桌面应用、嵌入式应用等，一套代码全平台运行。","content":"Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。\n\n","url":"https://flutter.dev/","published_at":"2021-10-16T10:54:40.000Z","tags":[{"name":"Flutter","slug":"flutter"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Flutter","slug":"flutter"}},
     "staticQueryHashes": ["63159454"]}

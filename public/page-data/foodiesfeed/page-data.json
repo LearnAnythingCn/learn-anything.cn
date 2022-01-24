@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/foodiesfeed",
-    "result": {"data":{"strapiArticles":{"id":"Articles_25","title":"foodiesfeed","description":"超过1100种食物的图片素材，高清，无版权可商用，免费下载。","content":"超过1100种食物的图片素材，高清，无版权可商用，免费下载。","url":"https://www.foodiesfeed.com/","author":null,"published_at":"2021-09-18T01:33:54.000Z","tags":[{"name":"图库","slug":"gallery"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"foodiesfeed","slug":"foodiesfeed"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_25","title":"foodiesfeed","description":"超过1100种食物的图片素材，高清，无版权可商用，免费下载。","content":"超过1100种食物的图片素材，高清，无版权可商用，免费下载。","url":"https://www.foodiesfeed.com/","published_at":"2021-09-18T01:33:54.000Z","tags":[{"name":"图库","slug":"gallery"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"foodiesfeed","slug":"foodiesfeed"}},
     "staticQueryHashes": ["63159454"]}

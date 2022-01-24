@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/ncha-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_311","title":"国家文物局","description":"国家文物局官方网站。","content":"国家文物局的主要职责是：拟订文物和博物馆事业发展规划，拟订文物认定、博物馆管理的标准和办法，组织文物资源调查，参与起草文物保护法律法规并负责督促检查。协调和指导文物保护工作，履行文物行政执法督察职责，依法组织查处文物违法的重大案件，协同有关部门查处文物犯罪的重大案件等。","url":"http://www.ncha.gov.cn","author":null,"published_at":"2021-10-31T13:30:23.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家文物局","slug":"ncha-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_311","title":"国家文物局","description":"国家文物局官方网站。","content":"国家文物局的主要职责是：拟订文物和博物馆事业发展规划，拟订文物认定、博物馆管理的标准和办法，组织文物资源调查，参与起草文物保护法律法规并负责督促检查。协调和指导文物保护工作，履行文物行政执法督察职责，依法组织查处文物违法的重大案件，协同有关部门查处文物犯罪的重大案件等。","url":"http://www.ncha.gov.cn","published_at":"2021-10-31T13:30:23.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家文物局","slug":"ncha-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/pianku",
-    "result": {"data":{"strapiArticles":{"id":"Articles_56","title":"片库","description":"全网高清影视免费下载，也可在线观看，包含最新电影、电视剧、动漫等。","content":"全网高清影视免费下载，也可在线观看，包含最新电影、电视剧、动漫等。","url":"https://www.pianku.li/","author":null,"published_at":"2021-09-21T05:47:30.000Z","tags":[{"name":"在线观看","slug":"online-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"片库","slug":"pianku"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_56","title":"片库","description":"全网高清影视免费下载，也可在线观看，包含最新电影、电视剧、动漫等。","content":"全网高清影视免费下载，也可在线观看，包含最新电影、电视剧、动漫等。","url":"https://www.pianku.li/","published_at":"2021-09-21T05:47:30.000Z","tags":[{"name":"在线观看","slug":"online-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"片库","slug":"pianku"}},
     "staticQueryHashes": ["63159454"]}

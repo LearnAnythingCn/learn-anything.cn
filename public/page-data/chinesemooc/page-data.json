@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/chinesemooc",
-    "result": {"data":{"strapiArticles":{"id":"Articles_130","title":"华文慕课","description":"来自北大等知名高校的免费课程，旨在为服务于全球华人，北京大学主办。","content":"华文慕课是一个以中文为主的慕课（MOOC）服务平台，旨在为全球华人服务，为用户提供来自北大等知名高校的免费课程。","url":"http://www.chinesemooc.org/","author":null,"published_at":"2021-10-19T12:07:46.000Z","tags":[{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"华文慕课","slug":"chinesemooc"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_130","title":"华文慕课","description":"来自北大等知名高校的免费课程，旨在为服务于全球华人，北京大学主办。","content":"华文慕课是一个以中文为主的慕课（MOOC）服务平台，旨在为全球华人服务，为用户提供来自北大等知名高校的免费课程。","url":"http://www.chinesemooc.org/","published_at":"2021-10-19T12:07:46.000Z","tags":[{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"华文慕课","slug":"chinesemooc"}},
     "staticQueryHashes": ["63159454"]}

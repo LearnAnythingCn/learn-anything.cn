@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/moe-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_271","title":"教育部","description":"中华人民共和国教育部政府官方网站。","content":"教育部是主管教育事业和语言文字工作的政府工作部门，主要职责包括拟订教育改革与发展的方针、政策和规划，起草有关法律法规草案并监督实施。负责各级各类教育的统筹规划和协调管理，会同有关部门制订各级各类学校的设置标准，指导各级各类学校的教育教学改革等工作。","url":"http://www.moe.gov.cn/","author":null,"published_at":"2021-10-31T12:45:36.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"},{"name":"留学","slug":"studying-abroad"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"教育部","slug":"moe-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_271","title":"教育部","description":"中华人民共和国教育部政府官方网站。","content":"教育部是主管教育事业和语言文字工作的政府工作部门，主要职责包括拟订教育改革与发展的方针、政策和规划，起草有关法律法规草案并监督实施。负责各级各类教育的统筹规划和协调管理，会同有关部门制订各级各类学校的设置标准，指导各级各类学校的教育教学改革等工作。","url":"http://www.moe.gov.cn/","published_at":"2021-10-31T12:45:36.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"},{"name":"留学","slug":"studying-abroad"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"教育部","slug":"moe-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

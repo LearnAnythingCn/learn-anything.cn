@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/w3c-tr",
-    "result": {"data":{"strapiArticles":{"id":"Articles_180","title":"W3C标准查询","description":"可以查询所有W3C定义的关于WEB的标准以及草案，譬如HTML、CSS、EPUB等。","content":"All Standards and Drafts - W3C\n可以查询所有W3C定义的关于WEB的标准以及草案，譬如HTML、CSS、EPUB等。","url":"https://www.w3.org/TR/","author":null,"published_at":"2021-10-28T02:34:02.000Z","tags":[{"name":"W3C","slug":"w3c"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"W3C标准查询","slug":"w3c-tr"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_180","title":"W3C标准查询","description":"可以查询所有W3C定义的关于WEB的标准以及草案，譬如HTML、CSS、EPUB等。","content":"All Standards and Drafts - W3C\n可以查询所有W3C定义的关于WEB的标准以及草案，譬如HTML、CSS、EPUB等。","url":"https://www.w3.org/TR/","published_at":"2021-10-28T02:34:02.000Z","tags":[{"name":"W3C","slug":"w3c"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"W3C标准查询","slug":"w3c-tr"}},
     "staticQueryHashes": ["63159454"]}

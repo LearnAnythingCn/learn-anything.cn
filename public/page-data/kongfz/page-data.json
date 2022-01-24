@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/kongfz",
-    "result": {"data":{"strapiArticles":{"id":"Articles_34","title":"孔夫子旧书网","description":"国内专业古籍、旧书交易平台，多达7000万种图书可供查询和购买。","content":"国内专业的古籍、旧书交易平台，汇集全国各地13000家网上书店，50000家书摊，展示多达9000万种书籍；大量极具收藏价值的古旧珍本（明清、民国古籍善本，珍品期刊，名人墨迹，民国珍本，绝版书等）在孔网展示与交易，吸引了大量的学者、研究人员和藏书人长时间在线关注并参与。","url":"https://www.kongfz.com/","author":null,"published_at":"2021-09-18T04:30:53.000Z","tags":[{"name":"古籍","slug":"ancient-book-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"孔夫子旧书网","slug":"kongfz"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_34","title":"孔夫子旧书网","description":"国内专业古籍、旧书交易平台，多达7000万种图书可供查询和购买。","content":"国内专业的古籍、旧书交易平台，汇集全国各地13000家网上书店，50000家书摊，展示多达9000万种书籍；大量极具收藏价值的古旧珍本（明清、民国古籍善本，珍品期刊，名人墨迹，民国珍本，绝版书等）在孔网展示与交易，吸引了大量的学者、研究人员和藏书人长时间在线关注并参与。","url":"https://www.kongfz.com/","published_at":"2021-09-18T04:30:53.000Z","tags":[{"name":"古籍","slug":"ancient-book-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"孔夫子旧书网","slug":"kongfz"}},
     "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/booooooom",
-    "result": {"data":{"strapiArticles":{"id":"Articles_23","title":"booooooom","description":"互联网最大的艺术平台之一，新当代艺术界的权威声音。","content":"Booooooom 由温哥华艺术家 Jeff Hamada 于 2008 年推出。它是加拿大流量最高的艺术平台，也是互联网上最大的艺术平台之一。\n\n在过去的十年中，Booooooom 已成为新当代艺术界的权威声音，突出新兴人才，并在国际上开启了许多年轻艺术家的职业生涯。\n","url":"https://www.booooooom.com/","author":null,"published_at":"2021-09-18T01:23:12.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"booooooom","slug":"booooooom"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_23","title":"booooooom","description":"互联网最大的艺术平台之一，新当代艺术界的权威声音。","content":"Booooooom 由温哥华艺术家 Jeff Hamada 于 2008 年推出。它是加拿大流量最高的艺术平台，也是互联网上最大的艺术平台之一。\n\n在过去的十年中，Booooooom 已成为新当代艺术界的权威声音，突出新兴人才，并在国际上开启了许多年轻艺术家的职业生涯。\n","url":"https://www.booooooom.com/","published_at":"2021-09-18T01:23:12.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"booooooom","slug":"booooooom"}},
     "staticQueryHashes": ["63159454"]}

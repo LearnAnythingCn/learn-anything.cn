@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/design-google",
-    "result": {"data":{"strapiArticles":{"id":"Articles_322","title":"谷歌设计","description":"有关设计的原创内容，谷歌设计团队主办。","content":"Google Design 是由 Google 的一组设计师、作家和开发人员领导的合作项目。我们跨团队合作发布原创内容、举办活动，并促进推动设计和技术发展的创意和教育合作伙伴关系。","url":"https://design.google","author":null,"published_at":"2021-11-01T12:09:55.000Z","tags":[{"name":"资讯","slug":"news"},{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"谷歌设计","slug":"design-google"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_322","title":"谷歌设计","description":"有关设计的原创内容，谷歌设计团队主办。","content":"Google Design 是由 Google 的一组设计师、作家和开发人员领导的合作项目。我们跨团队合作发布原创内容、举办活动，并促进推动设计和技术发展的创意和教育合作伙伴关系。","url":"https://design.google","published_at":"2021-11-01T12:09:55.000Z","tags":[{"name":"资讯","slug":"news"},{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"谷歌设计","slug":"design-google"}},
     "staticQueryHashes": ["63159454"]}

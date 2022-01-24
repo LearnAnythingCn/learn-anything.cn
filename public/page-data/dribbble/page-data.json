@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/dribbble",
-    "result": {"data":{"strapiArticles":{"id":"Articles_19","title":"dribbble","description":"全球顶级设计师和创意人员汇聚地，分享创意、寻找灵感，服务于4000多家世界级品牌。【需要梯子】","content":"世界顶级设计师和创意人员汇聚地，分享创意、寻找灵感，服务于4000多家世界级品牌。【需要梯子】\n","url":"https://dribbble.com/","author":null,"published_at":"2021-09-18T00:41:14.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"dribbble","slug":"dribbble"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_19","title":"dribbble","description":"全球顶级设计师和创意人员汇聚地，分享创意、寻找灵感，服务于4000多家世界级品牌。【需要梯子】","content":"世界顶级设计师和创意人员汇聚地，分享创意、寻找灵感，服务于4000多家世界级品牌。【需要梯子】\n","url":"https://dribbble.com/","published_at":"2021-09-18T00:41:14.000Z","tags":[{"name":"创意","slug":"ideas"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"dribbble","slug":"dribbble"}},
     "staticQueryHashes": ["63159454"]}

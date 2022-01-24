@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/developers-google-chart",
-    "result": {"data":{"strapiArticles":{"id":"Articles_325","title":"谷歌图表","description":"JS库，可在html中画出各种样式的图表：饼图、散点图、折线图等。","content":"Google Charts 提供了一种完美的方式来可视化您网站上的数据。从简单的折线图到复杂的分层树图， 图表库 提供了大量即用型图表类型。","url":"https://developers.google.com/chart","author":null,"published_at":"2021-11-01T12:23:57.000Z","tags":[{"name":"前端图表","slug":"frontend-charts"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"谷歌图表","slug":"developers-google-chart"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_325","title":"谷歌图表","description":"JS库，可在html中画出各种样式的图表：饼图、散点图、折线图等。","content":"Google Charts 提供了一种完美的方式来可视化您网站上的数据。从简单的折线图到复杂的分层树图， 图表库 提供了大量即用型图表类型。","url":"https://developers.google.com/chart","published_at":"2021-11-01T12:23:57.000Z","tags":[{"name":"前端图表","slug":"frontend-charts"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"谷歌图表","slug":"developers-google-chart"}},
     "staticQueryHashes": ["63159454"]}

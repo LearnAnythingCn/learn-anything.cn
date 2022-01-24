@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/bmzdt",
-    "result": {"data":{"strapiArticles":{"id":"Articles_379","title":"北美洲地图","description":"绘制比例 1 : 2100万，中文高清版，可免费下载。","content":"高清北美洲地图（NORTH AMERICA），绘制比例是 1：21 000 000，中文版，可免费下载。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0457%22","author":null,"published_at":"2021-11-19T03:40:01.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"北美洲地图","slug":"bmzdt"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_379","title":"北美洲地图","description":"绘制比例 1 : 2100万，中文高清版，可免费下载。","content":"高清北美洲地图（NORTH AMERICA），绘制比例是 1：21 000 000，中文版，可免费下载。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0457%22","published_at":"2021-11-19T03:40:01.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"北美洲地图","slug":"bmzdt"}},
     "staticQueryHashes": ["63159454"]}

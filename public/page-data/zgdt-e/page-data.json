@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/zgdt-e",
-    "result": {"data":{"strapiArticles":{"id":"Articles_387","title":"中国地图（英）","description":"绘制比例 1 : 740万，英文高清版，可免费下载。","content":"高清中国地图（CHINA），绘制比例是 1：7 400 000，英文版，可免费下载。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0669%22","author":null,"published_at":"2021-11-19T04:00:13.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中国地图（英）","slug":"zgdt-e"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_387","title":"中国地图（英）","description":"绘制比例 1 : 740万，英文高清版，可免费下载。","content":"高清中国地图（CHINA），绘制比例是 1：7 400 000，英文版，可免费下载。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0669%22","published_at":"2021-11-19T04:00:13.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中国地图（英）","slug":"zgdt-e"}},
     "staticQueryHashes": ["63159454"]}

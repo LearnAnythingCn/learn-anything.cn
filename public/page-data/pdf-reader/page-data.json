@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/pdf-reader",
-    "result": {"data":{"strapiArticles":{"id":"Articles_239","title":"PDF阅读器","description":"免费在线PDF阅读器，可以查看，打印，编辑您的PDF文件，还可以使用Smallpdf桌面应用程序离线处理PDF文件，无需注册。","content":"PDF阅读器 - 在线查看、编辑和转换PDF\n一款免费的在线PDF阅读器可以查看，打印，编辑您的PDF文件。您还可以使用Smallpdf桌面应用程序离线处理PDF文件。无需注册。","url":"https://smallpdf.com/cn/pdf-reader","author":null,"published_at":"2021-10-31T03:21:54.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"PDF阅读器","slug":"pdf-reader"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_239","title":"PDF阅读器","description":"免费在线PDF阅读器，可以查看，打印，编辑您的PDF文件，还可以使用Smallpdf桌面应用程序离线处理PDF文件，无需注册。","content":"PDF阅读器 - 在线查看、编辑和转换PDF\n一款免费的在线PDF阅读器可以查看，打印，编辑您的PDF文件。您还可以使用Smallpdf桌面应用程序离线处理PDF文件。无需注册。","url":"https://smallpdf.com/cn/pdf-reader","published_at":"2021-10-31T03:21:54.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"PDF阅读器","slug":"pdf-reader"}},
     "staticQueryHashes": ["63159454"]}

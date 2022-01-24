@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/aconvert-audio",
-    "result": {"data":{"strapiArticles":{"id":"Articles_258","title":"音频格式转换","description":"提供音频格式文件相互转换：OGG转MP3，OPUS转MP3，WAV转MP3，MP4转MP3，MP3转M4A，MP3转AAC等。","content":"在线转换音频文件\n将音频文件从一种格式转换为另一种格式，比如OGG到MP3，OPUS到MP3，WAV到MP3，MP4到MP3，MP3到M4A，MP3到AAC等。","url":"https://www.aconvert.com/cn/audio/","author":null,"published_at":"2021-10-31T06:33:57.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"音频格式转换","slug":"aconvert-audio"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_258","title":"音频格式转换","description":"提供音频格式文件相互转换：OGG转MP3，OPUS转MP3，WAV转MP3，MP4转MP3，MP3转M4A，MP3转AAC等。","content":"在线转换音频文件\n将音频文件从一种格式转换为另一种格式，比如OGG到MP3，OPUS到MP3，WAV到MP3，MP4到MP3，MP3到M4A，MP3到AAC等。","url":"https://www.aconvert.com/cn/audio/","published_at":"2021-10-31T06:33:57.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"音频格式转换","slug":"aconvert-audio"}},
     "staticQueryHashes": ["63159454"]}

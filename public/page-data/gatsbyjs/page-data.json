@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/gatsbyjs",
-    "result": {"data":{"strapiArticles":{"id":"Articles_89","title":"Gatsby","description":"基于React的免费、开源框架，构建运行速度极快的网站和应用程序。","content":"基于React的免费、开源框架，构建运行速度极快的网站和应用程序。","url":"https://www.gatsbyjs.com/","author":null,"published_at":"2021-10-05T00:46:35.000Z","tags":[{"name":"Gatsby","slug":"gatsby"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Gatsby","slug":"gatsbyjs"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_89","title":"Gatsby","description":"基于React的免费、开源框架，构建运行速度极快的网站和应用程序。","content":"基于React的免费、开源框架，构建运行速度极快的网站和应用程序。","url":"https://www.gatsbyjs.com/","published_at":"2021-10-05T00:46:35.000Z","tags":[{"name":"Gatsby","slug":"gatsby"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Gatsby","slug":"gatsbyjs"}},
     "staticQueryHashes": ["63159454"]}

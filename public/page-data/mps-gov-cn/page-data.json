@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/mps-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_274","title":"公安部","description":"中华人民共和国公安部官方网站。","content":"公安部是国务院主管全国公安工作的职能部门。主要职责包括预防、制止和侦查违法犯罪活动；防范、打击恐怖活动；维护社会治安秩序；管理户口、居民身份证、国籍、出入境事务和外国人在中国境内居留、旅行的有关事务；监督管理公共信息网络的安全监察工作等。","url":"http://www.mps.gov.cn/","author":null,"published_at":"2021-10-31T12:52:59.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"公安部","slug":"mps-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_274","title":"公安部","description":"中华人民共和国公安部官方网站。","content":"公安部是国务院主管全国公安工作的职能部门。主要职责包括预防、制止和侦查违法犯罪活动；防范、打击恐怖活动；维护社会治安秩序；管理户口、居民身份证、国籍、出入境事务和外国人在中国境内居留、旅行的有关事务；监督管理公共信息网络的安全监察工作等。","url":"http://www.mps.gov.cn/","published_at":"2021-10-31T12:52:59.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"公安部","slug":"mps-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

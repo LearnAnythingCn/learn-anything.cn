@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/sasac-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_292","title":"国务院国有资产监督管理委员会","description":"国务院国有资产监督管理委员会官方网站。","content":"国务院国有资产监督管理委员会根据国务院授权，依照《中华人民共和国公司法》等法律和行政法规履行出资人职责，监管中央所属企业（不含金融类企业）的国有资产，加强国有资产的管理工作；承担监督所监管企业国有资产保值增值的责任等职责。","url":"http://www.sasac.gov.cn","author":null,"published_at":"2021-10-31T13:13:39.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国务院国有资产监督管理委员会","slug":"sasac-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_292","title":"国务院国有资产监督管理委员会","description":"国务院国有资产监督管理委员会官方网站。","content":"国务院国有资产监督管理委员会根据国务院授权，依照《中华人民共和国公司法》等法律和行政法规履行出资人职责，监管中央所属企业（不含金融类企业）的国有资产，加强国有资产的管理工作；承担监督所监管企业国有资产保值增值的责任等职责。","url":"http://www.sasac.gov.cn","published_at":"2021-10-31T13:13:39.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国务院国有资产监督管理委员会","slug":"sasac-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

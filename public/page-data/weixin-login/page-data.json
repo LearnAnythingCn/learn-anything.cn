@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/weixin-login",
-    "result": {"data":{"strapiArticles":{"id":"Articles_253","title":"微信登录","description":"可登录：微信服务号、订阅号、小程序、企业微信的后台。","content":"微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。","url":"https://mp.weixin.qq.com/","author":null,"published_at":"2021-10-31T04:23:31.000Z","tags":[{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"微信登录","slug":"weixin-login"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_253","title":"微信登录","description":"可登录：微信服务号、订阅号、小程序、企业微信的后台。","content":"微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。","url":"https://mp.weixin.qq.com/","published_at":"2021-10-31T04:23:31.000Z","tags":[{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"微信登录","slug":"weixin-login"}},
     "staticQueryHashes": ["63159454"]}

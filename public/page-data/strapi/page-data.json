@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/strapi",
-    "result": {"data":{"strapiArticles":{"id":"Articles_76","title":"strapi","description":"最灵活的内容管理系统(CMS)，无需关心数据库的复杂操作，可专注内容生产和访问(API)。","content":"最灵活的内容管理系统(CMS)，无需关心数据库的复杂操作，可专注内容生产和访问(API)。","url":"https://strapi.io/","author":null,"published_at":"2021-09-24T04:04:59.000Z","tags":[{"name":"strapi","slug":"strapi"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"strapi","slug":"strapi"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_76","title":"strapi","description":"最灵活的内容管理系统(CMS)，无需关心数据库的复杂操作，可专注内容生产和访问(API)。","content":"最灵活的内容管理系统(CMS)，无需关心数据库的复杂操作，可专注内容生产和访问(API)。","url":"https://strapi.io/","published_at":"2021-09-24T04:04:59.000Z","tags":[{"name":"strapi","slug":"strapi"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"strapi","slug":"strapi"}},
     "staticQueryHashes": ["63159454"]}

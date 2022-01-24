@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/weixin-miniprogram",
-    "result": {"data":{"strapiArticles":{"id":"Articles_331","title":"微信小程序开发","description":"微信小程序开发工具，编辑、调试、上传、发布小程序。","content":"微信小程序开发工具，编辑、调试、上传、发布小程序。","url":"https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html","author":null,"published_at":"2021-11-02T09:21:01.000Z","tags":[{"name":"代码编辑器","slug":"code-editor"},{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"微信小程序开发","slug":"weixin-miniprogram"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_331","title":"微信小程序开发","description":"微信小程序开发工具，编辑、调试、上传、发布小程序。","content":"微信小程序开发工具，编辑、调试、上传、发布小程序。","url":"https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html","published_at":"2021-11-02T09:21:01.000Z","tags":[{"name":"代码编辑器","slug":"code-editor"},{"name":"微信","slug":"weixin"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"微信小程序开发","slug":"weixin-miniprogram"}},
     "staticQueryHashes": ["63159454"]}

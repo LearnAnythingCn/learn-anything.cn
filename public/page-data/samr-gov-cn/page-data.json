@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/samr-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_295","title":"国家市场监督管理总局","description":"国家市场监督管理总局官方网站。","content":"国家市场监督管理总局的职能包括负责市场综合监督管理。起草市场监督管理有关法律法规草案，制定有关规章、政策、标准，组织实施质量强国战略、食品安全战略和标准化战略，拟订并组织实施有关规划，规范和维护市场秩序，营造诚实守信、公平竞争的市场环境等。","url":"http://www.samr.gov.cn","author":null,"published_at":"2021-10-31T13:16:28.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家市场监督管理总局","slug":"samr-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_295","title":"国家市场监督管理总局","description":"国家市场监督管理总局官方网站。","content":"国家市场监督管理总局的职能包括负责市场综合监督管理。起草市场监督管理有关法律法规草案，制定有关规章、政策、标准，组织实施质量强国战略、食品安全战略和标准化战略，拟订并组织实施有关规划，规范和维护市场秩序，营造诚实守信、公平竞争的市场环境等。","url":"http://www.samr.gov.cn","published_at":"2021-10-31T13:16:28.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家市场监督管理总局","slug":"samr-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

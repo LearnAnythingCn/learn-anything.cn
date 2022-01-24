@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/hlhpdt",
-    "result": {"data":{"strapiArticles":{"id":"Articles_388","title":"河流分布图","description":"中国主要河流、湖泊分布图，绘制比例 1 : 1600万，中文高清版，可免费下载。","content":"高清中国主要河流、湖泊分布图，绘制比例是 1：16 000 000，中文版，可免费下载。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0433%22","author":null,"published_at":"2021-11-19T04:04:04.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"河流分布图","slug":"hlhpdt"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_388","title":"河流分布图","description":"中国主要河流、湖泊分布图，绘制比例 1 : 1600万，中文高清版，可免费下载。","content":"高清中国主要河流、湖泊分布图，绘制比例是 1：16 000 000，中文版，可免费下载。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0433%22","published_at":"2021-11-19T04:04:04.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"河流分布图","slug":"hlhpdt"}},
     "staticQueryHashes": ["63159454"]}

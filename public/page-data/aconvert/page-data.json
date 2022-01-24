@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/aconvert",
-    "result": {"data":{"strapiArticles":{"id":"Articles_17","title":"Aconvert","description":"在线文件格式转换，包括PDF，文档，电子书，图像，图标，视频，音频和压缩文件。","content":"在线转换各类PDF，文档，电子书，图像，图标，视频，音频和压缩文件。\n","url":"https://www.aconvert.com/cn/","author":null,"published_at":"2021-09-17T23:24:15.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Aconvert","slug":"aconvert"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_17","title":"Aconvert","description":"在线文件格式转换，包括PDF，文档，电子书，图像，图标，视频，音频和压缩文件。","content":"在线转换各类PDF，文档，电子书，图像，图标，视频，音频和压缩文件。\n","url":"https://www.aconvert.com/cn/","published_at":"2021-09-17T23:24:15.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Aconvert","slug":"aconvert"}},
     "staticQueryHashes": ["63159454"]}

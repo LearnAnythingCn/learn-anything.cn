@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/aconvert-video",
-    "result": {"data":{"strapiArticles":{"id":"Articles_257","title":"视频格式转换","description":"提供视频文件格式相互转换：AVI转MP4，WEBM转MP4，MOV转MP4，MP4转MKV，WMV转MP4，MP4转GIF等。","content":"在线转换视频文件\n将视频文件从一种格式转换为另一种格式，比如AVI到MP4，WEBM到MP4，MOV到MP4，MP4到MKV，WMV到MP4，MP4到GIF等。","url":"https://www.aconvert.com/cn/video/","author":null,"published_at":"2021-10-31T06:32:32.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"视频格式转换","slug":"aconvert-video"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_257","title":"视频格式转换","description":"提供视频文件格式相互转换：AVI转MP4，WEBM转MP4，MOV转MP4，MP4转MKV，WMV转MP4，MP4转GIF等。","content":"在线转换视频文件\n将视频文件从一种格式转换为另一种格式，比如AVI到MP4，WEBM到MP4，MOV到MP4，MP4到MKV，WMV到MP4，MP4到GIF等。","url":"https://www.aconvert.com/cn/video/","published_at":"2021-10-31T06:32:32.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"视频格式转换","slug":"aconvert-video"}},
     "staticQueryHashes": ["63159454"]}

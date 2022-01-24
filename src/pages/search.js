@@ -99,7 +99,7 @@ const SearchPage = ({ location, data }) => {
             
         })
           .catch(function (error) {
-            console.log(error);
+            // console.log(error);
             setResults([]);
             setBookResults([]);
             setMovieResults([]);

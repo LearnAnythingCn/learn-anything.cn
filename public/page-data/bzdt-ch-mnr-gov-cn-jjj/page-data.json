@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/bzdt-ch-mnr-gov-cn-jjj",
-    "result": {"data":{"strapiArticles":{"id":"Articles_375","title":"京津冀都市圈地图","description":"中国京津冀都市圈区域图，包含北京市、天津市、河北省。","content":"中国京津冀都市圈区域图，包含北京市、天津市、河北省。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0068%22","author":null,"published_at":"2021-11-19T03:23:19.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"京津冀都市圈地图","slug":"bzdt-ch-mnr-gov-cn-jjj"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_375","title":"京津冀都市圈地图","description":"中国京津冀都市圈区域图，包含北京市、天津市、河北省。","content":"中国京津冀都市圈区域图，包含北京市、天津市、河北省。","url":"http://bzdt.ch.mnr.gov.cn/browse.html?picId=%224o28b0625501ad13015501ad2bfc0068%22","published_at":"2021-11-19T03:23:19.000Z","tags":[{"name":"地图","slug":"map-info"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"京津冀都市圈地图","slug":"bzdt-ch-mnr-gov-cn-jjj"}},
     "staticQueryHashes": ["63159454"]}

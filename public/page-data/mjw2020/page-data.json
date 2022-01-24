@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/mjw2020",
-    "result": {"data":{"strapiArticles":{"id":"Articles_48","title":"美剧网","description":"在线观看美剧，提供最新、高清流畅、无广告的观看体验。","content":"在线观看美剧，提供最新高清、流畅、无广告的观看体验。","url":"https://www.mjw2020.com/","author":null,"published_at":"2021-09-18T08:22:31.000Z","tags":[]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"美剧网","slug":"mjw2020"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_48","title":"美剧网","description":"在线观看美剧，提供最新、高清流畅、无广告的观看体验。","content":"在线观看美剧，提供最新高清、流畅、无广告的观看体验。","url":"https://www.mjw2020.com/","published_at":"2021-09-18T08:22:31.000Z","tags":[]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"美剧网","slug":"mjw2020"}},
     "staticQueryHashes": ["63159454"]}

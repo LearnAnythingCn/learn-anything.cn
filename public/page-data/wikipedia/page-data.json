@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/wikipedia",
-    "result": {"data":{"strapiArticles":{"id":"Articles_62","title":"维基百科","description":"全球最大且最受大众欢迎的参考工具书，查询的知识仅供参考。【需要梯子】","content":"全球最大且最受大众欢迎的参考工具书，查询的知识仅供参考。【需要梯子】","url":"https://zh.wikipedia.org/","author":null,"published_at":"2021-09-22T16:50:33.000Z","tags":[{"name":"问答","slug":"qa"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"维基百科","slug":"wikipedia"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_62","title":"维基百科","description":"全球最大且最受大众欢迎的参考工具书，查询的知识仅供参考。【需要梯子】","content":"全球最大且最受大众欢迎的参考工具书，查询的知识仅供参考。【需要梯子】","url":"https://zh.wikipedia.org/","published_at":"2021-09-22T16:50:33.000Z","tags":[{"name":"问答","slug":"qa"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"维基百科","slug":"wikipedia"}},
     "staticQueryHashes": ["63159454"]}

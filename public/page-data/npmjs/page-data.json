@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/npmjs",
-    "result": {"data":{"strapiArticles":{"id":"Articles_60","title":"npm","description":"方便下载、安装、使用他人共享的JS项目，是Node.js内置应用，1100万开发者在使用。","content":"Node.js的包管理器，帮助JavaScript开发人员轻松开发、安装、打包、共享使用的工具。","url":"https://www.npmjs.com/","author":null,"published_at":"2021-09-22T07:52:44.000Z","tags":[{"name":"Nodejs","slug":"nodejs"},{"name":"NPM","slug":"npm"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"npm","slug":"npmjs"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_60","title":"npm","description":"方便下载、安装、使用他人共享的JS项目，是Node.js内置应用，1100万开发者在使用。","content":"Node.js的包管理器，帮助JavaScript开发人员轻松开发、安装、打包、共享使用的工具。","url":"https://www.npmjs.com/","published_at":"2021-09-22T07:52:44.000Z","tags":[{"name":"Nodejs","slug":"nodejs"},{"name":"NPM","slug":"npm"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"npm","slug":"npmjs"}},
     "staticQueryHashes": ["63159454"]}

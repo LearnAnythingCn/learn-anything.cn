@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/hexo",
-    "result": {"data":{"strapiArticles":{"id":"Articles_176","title":"Hexo","description":"几句命令就可以构建一个博客网站，开源免费，各种类型主题可用。","content":"快速、简洁且高效的博客框架。几句命令就可以构建一个博客网站，开源免费，各种类型主题可用。","url":"https://hexo.io/zh-cn/","author":null,"published_at":"2021-10-27T14:33:13.000Z","tags":[{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Hexo","slug":"hexo"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_176","title":"Hexo","description":"几句命令就可以构建一个博客网站，开源免费，各种类型主题可用。","content":"快速、简洁且高效的博客框架。几句命令就可以构建一个博客网站，开源免费，各种类型主题可用。","url":"https://hexo.io/zh-cn/","published_at":"2021-10-27T14:33:13.000Z","tags":[{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Hexo","slug":"hexo"}},
     "staticQueryHashes": ["63159454"]}

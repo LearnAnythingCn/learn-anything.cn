@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/cnu",
-    "result": {"data":{"strapiArticles":{"id":"Articles_329","title":"CNU","description":"传播优秀视觉文化，众多富有创造力的摄影作品。","content":" 中国视觉联盟cnu.cc-是一家致力于传播优秀视觉文化,研究视觉艺术、交流视觉理念、开拓大众审美视野的专业性视觉网站。 ","url":"http://www.cnu.cc/","author":null,"published_at":"2021-11-01T15:42:38.000Z","tags":[{"name":"摄影","slug":"photography"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"CNU","slug":"cnu"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_329","title":"CNU","description":"传播优秀视觉文化，众多富有创造力的摄影作品。","content":" 中国视觉联盟cnu.cc-是一家致力于传播优秀视觉文化,研究视觉艺术、交流视觉理念、开拓大众审美视野的专业性视觉网站。 ","url":"http://www.cnu.cc/","published_at":"2021-11-01T15:42:38.000Z","tags":[{"name":"摄影","slug":"photography"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"CNU","slug":"cnu"}},
     "staticQueryHashes": ["63159454"]}

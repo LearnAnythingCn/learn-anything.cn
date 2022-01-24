@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/sign-pdf",
-    "result": {"data":{"strapiArticles":{"id":"Articles_247","title":"PDF电子签名","description":"创建您的电子签名，并在线签署PDF文件，100%免费。","content":"PDF电子签名，免费的在线电子签名\n以电子签名在线签署文档的工具，100%免费。无需注册 - 创建您的电子签名，并在线签署PDF文件。","url":"https://smallpdf.com/cn/sign-pdf","author":null,"published_at":"2021-10-31T03:40:16.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"PDF电子签名","slug":"sign-pdf"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_247","title":"PDF电子签名","description":"创建您的电子签名，并在线签署PDF文件，100%免费。","content":"PDF电子签名，免费的在线电子签名\n以电子签名在线签署文档的工具，100%免费。无需注册 - 创建您的电子签名，并在线签署PDF文件。","url":"https://smallpdf.com/cn/sign-pdf","published_at":"2021-10-31T03:40:16.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"PDF电子签名","slug":"sign-pdf"}},
     "staticQueryHashes": ["63159454"]}

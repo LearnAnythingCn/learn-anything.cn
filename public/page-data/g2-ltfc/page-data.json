@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/g2-ltfc",
-    "result": {"data":{"strapiArticles":{"id":"Articles_196","title":"中华珍宝馆","description":"提供中国历代书法、绘画、陶瓷、青铜器、油画的欣赏与高清下载。","content":"中华珍宝馆提供中国历代高清书法图片欣赏和下载,高清绘画图片欣赏和下载。","url":"https://g2.ltfc.net/home","author":null,"published_at":"2021-10-28T13:39:58.000Z","tags":[{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中华珍宝馆","slug":"g2-ltfc"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_196","title":"中华珍宝馆","description":"提供中国历代书法、绘画、陶瓷、青铜器、油画的欣赏与高清下载。","content":"中华珍宝馆提供中国历代高清书法图片欣赏和下载,高清绘画图片欣赏和下载。","url":"https://g2.ltfc.net/home","published_at":"2021-10-28T13:39:58.000Z","tags":[{"name":"常用","slug":"common"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中华珍宝馆","slug":"g2-ltfc"}},
     "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/gitee",
-    "result": {"data":{"strapiArticles":{"id":"Articles_132","title":"码云","description":"支持 Git 和 SVN 的代码托管平台，可提供免费的私有仓库托管，已有超过 600 万的开发者选择 Gitee。","content":"Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。","url":"https://gitee.com/","author":null,"published_at":"2021-10-19T23:48:47.000Z","tags":[{"name":"代码托管","slug":"code-collocation"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"码云","slug":"gitee"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_132","title":"码云","description":"支持 Git 和 SVN 的代码托管平台，可提供免费的私有仓库托管，已有超过 600 万的开发者选择 Gitee。","content":"Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。","url":"https://gitee.com/","published_at":"2021-10-19T23:48:47.000Z","tags":[{"name":"代码托管","slug":"code-collocation"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"码云","slug":"gitee"}},
     "staticQueryHashes": ["63159454"]}

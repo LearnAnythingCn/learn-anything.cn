@@ -67,9 +67,6 @@ export const queryRecommendationData = graphql`
                 }
                 slug
                 title
-                author {
-                  name
-                }
                 description
                 rank
                 published_at

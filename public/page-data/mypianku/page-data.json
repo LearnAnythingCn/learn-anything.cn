@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/mypianku",
-    "result": {"data":{"strapiArticles":{"id":"Articles_434","title":"片库网","description":"可免费下载最新电影、电视剧、动漫等高清资源，速度快！","content":"片库网是一个可在线观看、下载视频的网站。每日收集全网最新的电影、剧集、动漫高清资源供网友免费下载！","url":"https://www.mypianku.net/","author":null,"published_at":"2021-12-04T10:14:00.000Z","tags":[{"name":"电影下载","slug":"download-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"片库网","slug":"mypianku"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_434","title":"片库网","description":"可免费下载最新电影、电视剧、动漫等高清资源，速度快！","content":"片库网是一个可在线观看、下载视频的网站。每日收集全网最新的电影、剧集、动漫高清资源供网友免费下载！","url":"https://www.mypianku.net/","published_at":"2021-12-04T10:14:00.000Z","tags":[{"name":"电影下载","slug":"download-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"片库网","slug":"mypianku"}},
     "staticQueryHashes": ["63159454"]}

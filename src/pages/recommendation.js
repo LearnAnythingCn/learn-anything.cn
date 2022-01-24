@@ -46,7 +46,6 @@ export const recommendationsQuery = graphql`
           articles {
             slug
             title
-            author
             description
             rank
             published_at

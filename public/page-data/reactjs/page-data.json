@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/reactjs",
-    "result": {"data":{"strapiArticles":{"id":"Articles_167","title":"React","description":"Facebook提供的开源JavaScript 库，用于构建用户界面(UI)，非常方便的构建HTML页面。","content":"A JavaScript library for building user interfaces.\nFacebook提供的开源JavaScript 库，用于构建用户界面(UI)，非常方便的构建HTML页面。","url":"https://reactjs.org/","author":null,"published_at":"2021-10-27T00:34:45.000Z","tags":[{"name":"React","slug":"react"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"React","slug":"reactjs"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_167","title":"React","description":"Facebook提供的开源JavaScript 库，用于构建用户界面(UI)，非常方便的构建HTML页面。","content":"A JavaScript library for building user interfaces.\nFacebook提供的开源JavaScript 库，用于构建用户界面(UI)，非常方便的构建HTML页面。","url":"https://reactjs.org/","published_at":"2021-10-27T00:34:45.000Z","tags":[{"name":"React","slug":"react"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"React","slug":"reactjs"}},
     "staticQueryHashes": ["63159454"]}

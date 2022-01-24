@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/newfii",
-    "result": {"data":{"strapiArticles":{"id":"Articles_321","title":"奈落影院","description":"在线免费观看高清电影、电视剧、综艺，无弹窗、速度快。","content":"奈落影院\n在线免费观看高清电影、电视剧、综艺，无弹窗、速度快。","url":"https://newfii.com/","author":null,"published_at":"2021-11-01T11:12:30.000Z","tags":[{"name":"在线观看","slug":"online-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"奈落影院","slug":"newfii"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_321","title":"奈落影院","description":"在线免费观看高清电影、电视剧、综艺，无弹窗、速度快。","content":"奈落影院\n在线免费观看高清电影、电视剧、综艺，无弹窗、速度快。","url":"https://newfii.com/","published_at":"2021-11-01T11:12:30.000Z","tags":[{"name":"在线观看","slug":"online-movie"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"奈落影院","slug":"newfii"}},
     "staticQueryHashes": ["63159454"]}

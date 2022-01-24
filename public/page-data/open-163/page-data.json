@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/open-163",
-    "result": {"data":{"strapiArticles":{"id":"Articles_143","title":"网易公开课","description":"汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程，覆盖科学、经济、人文、哲学等22个领域，在这里你可以开拓视野看世界，获取有深度的好知识。","content":"网易公开课汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程，覆盖科学、经济、人文、哲学等22个领域，在这里你可以开拓视野看世界，获取有深度的好知识。","url":"https://open.163.com/","author":null,"published_at":"2021-10-21T06:45:49.000Z","tags":[{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"网易公开课","slug":"open-163"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_143","title":"网易公开课","description":"汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程，覆盖科学、经济、人文、哲学等22个领域，在这里你可以开拓视野看世界，获取有深度的好知识。","content":"网易公开课汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程，覆盖科学、经济、人文、哲学等22个领域，在这里你可以开拓视野看世界，获取有深度的好知识。","url":"https://open.163.com/","published_at":"2021-10-21T06:45:49.000Z","tags":[{"name":"学习资源","slug":"online-course"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"网易公开课","slug":"open-163"}},
     "staticQueryHashes": ["63159454"]}

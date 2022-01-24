@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/audit-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_290","title":"审计署","description":"中华人民共和国审计署官方网站。","content":"审计署除了主管全国审计工作外，还负责对国家财政收支和法律法规规定属于审计监督范围的财务收支的真实、合法和效益进行审计监督，对公共资金、国有资产、国有资源和领导干部履行经济责任情况实行审计全覆盖，对领导干部实行自然资源资产离任审计，对国家有关重大政策措施贯彻落实情况进行跟踪审计等。","url":"http://www.audit.gov.cn","author":null,"published_at":"2021-10-31T13:11:31.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"审计署","slug":"audit-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_290","title":"审计署","description":"中华人民共和国审计署官方网站。","content":"审计署除了主管全国审计工作外，还负责对国家财政收支和法律法规规定属于审计监督范围的财务收支的真实、合法和效益进行审计监督，对公共资金、国有资产、国有资源和领导干部履行经济责任情况实行审计全覆盖，对领导干部实行自然资源资产离任审计，对国家有关重大政策措施贯彻落实情况进行跟踪审计等。","url":"http://www.audit.gov.cn","published_at":"2021-10-31T13:11:31.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"审计署","slug":"audit-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

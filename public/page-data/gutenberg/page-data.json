@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/gutenberg",
-    "result": {"data":{"strapiArticles":{"id":"Articles_40","title":"gutenberg","description":"可免费下载超过6万本公版英文电子书，大部分图书是epub格式。","content":"提供免费下载超过6万本公版英文电子书，大部分图书是epub格式。","url":"https://www.gutenberg.org/","author":null,"published_at":"2021-09-18T05:16:16.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"gutenberg","slug":"gutenberg"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_40","title":"gutenberg","description":"可免费下载超过6万本公版英文电子书，大部分图书是epub格式。","content":"提供免费下载超过6万本公版英文电子书，大部分图书是epub格式。","url":"https://www.gutenberg.org/","published_at":"2021-09-18T05:16:16.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"gutenberg","slug":"gutenberg"}},
     "staticQueryHashes": ["63159454"]}

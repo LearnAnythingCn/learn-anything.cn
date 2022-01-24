@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/yikm",
-    "result": {"data":{"strapiArticles":{"id":"Articles_200","title":"童年游戏","description":"魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。小时候的回忆，希望大家可以找回童年的快乐！","content":"魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐！","url":"https://www.yikm.net/","author":null,"published_at":"2021-10-29T04:11:47.000Z","tags":[{"name":"有意思","slug":"funny-things"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"童年游戏","slug":"yikm"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_200","title":"童年游戏","description":"魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。小时候的回忆，希望大家可以找回童年的快乐！","content":"魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐！","url":"https://www.yikm.net/","published_at":"2021-10-29T04:11:47.000Z","tags":[{"name":"有意思","slug":"funny-things"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"童年游戏","slug":"yikm"}},
     "staticQueryHashes": ["63159454"]}

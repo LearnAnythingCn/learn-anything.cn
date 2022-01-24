@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/cnsa-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_291","title":"国家航天局","description":"国家航天局官方网站。","content":"中国国家航天局是中华人民共和国负责民用航天管理及国际空间合作的政府机构，履行政府相应的管理职责。对航天活动实施行业管理，使其稳定、有序、健康、协调地发展。代表中国政府组织或领导开展航天领域对外交流与合作等活动。","url":"http://www.cnsa.gov.cn","author":null,"published_at":"2021-10-31T13:12:43.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家航天局","slug":"cnsa-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_291","title":"国家航天局","description":"国家航天局官方网站。","content":"中国国家航天局是中华人民共和国负责民用航天管理及国际空间合作的政府机构，履行政府相应的管理职责。对航天活动实施行业管理，使其稳定、有序、健康、协调地发展。代表中国政府组织或领导开展航天领域对外交流与合作等活动。","url":"http://www.cnsa.gov.cn","published_at":"2021-10-31T13:12:43.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"国家航天局","slug":"cnsa-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

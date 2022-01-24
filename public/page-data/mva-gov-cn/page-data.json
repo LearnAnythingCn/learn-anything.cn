@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/mva-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_287","title":"退役军人事务部","description":"中华人民共和国退役军人事务部官方网站。","content":"退役军人事务部主要职责是：履行拟订退役军人思想政治、管理保障和安置优抚等工作政策法规并组织实施，褒扬彰显退役军人为党、国家和人民牺牲奉献的精神风范和价值导向，负责军队转业干部、复员干部、离退休干部、退役士兵和无军籍退休退职职工的移交安置工作和自主择业、就业退役军人服务管理、待遇保障工作等。","url":"http://www.mva.gov.cn","author":null,"published_at":"2021-10-31T13:08:34.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"退役军人事务部","slug":"mva-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_287","title":"退役军人事务部","description":"中华人民共和国退役军人事务部官方网站。","content":"退役军人事务部主要职责是：履行拟订退役军人思想政治、管理保障和安置优抚等工作政策法规并组织实施，褒扬彰显退役军人为党、国家和人民牺牲奉献的精神风范和价值导向，负责军队转业干部、复员干部、离退休干部、退役士兵和无军籍退休退职职工的移交安置工作和自主择业、就业退役军人服务管理、待遇保障工作等。","url":"http://www.mva.gov.cn","published_at":"2021-10-31T13:08:34.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"退役军人事务部","slug":"mva-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

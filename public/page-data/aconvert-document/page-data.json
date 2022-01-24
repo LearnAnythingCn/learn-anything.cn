@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/aconvert-document",
-    "result": {"data":{"strapiArticles":{"id":"Articles_254","title":"文件格式转换","description":"文件格式相互转换：PDF，TXT，HTML，DOC，DOCX，XLS，XLSX，PPT，PPTX，ODT，ODP或ODS等","content":"在线转换文档文件 \n将文档文件转换为PDF，TXT，HTML，DOC，DOCX，XLS，XLSX，PPT，PPTX，ODT，ODP或ODS等文件。","url":"https://www.aconvert.com/cn/document/","author":null,"published_at":"2021-10-31T06:19:49.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"文件格式转换","slug":"aconvert-document"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_254","title":"文件格式转换","description":"文件格式相互转换：PDF，TXT，HTML，DOC，DOCX，XLS，XLSX，PPT，PPTX，ODT，ODP或ODS等","content":"在线转换文档文件 \n将文档文件转换为PDF，TXT，HTML，DOC，DOCX，XLS，XLSX，PPT，PPTX，ODT，ODP或ODS等文件。","url":"https://www.aconvert.com/cn/document/","published_at":"2021-10-31T06:19:49.000Z","tags":[{"name":"格式转换","slug":"filetype-convert"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"文件格式转换","slug":"aconvert-document"}},
     "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/z-lib",
-    "result": {"data":{"strapiArticles":{"id":"Articles_41","title":"z-lib","description":"全球最大英文电子书下载网站，质量高，每天限制下载10本。【需要梯子】","content":"世界上最大英文电子书下载网站，质量高，每天限制下载10本。【需要梯子】","url":"https://z-lib.org/","author":null,"published_at":"2021-09-18T05:06:28.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"z-lib","slug":"z-lib"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_41","title":"z-lib","description":"全球最大英文电子书下载网站，质量高，每天限制下载10本。【需要梯子】","content":"世界上最大英文电子书下载网站，质量高，每天限制下载10本。【需要梯子】","url":"https://z-lib.org/","published_at":"2021-09-18T05:06:28.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"z-lib","slug":"z-lib"}},
     "staticQueryHashes": ["63159454"]}

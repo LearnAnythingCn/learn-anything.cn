@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/cma-gov-cn",
-    "result": {"data":{"strapiArticles":{"id":"Articles_300","title":"中国气象局","description":"中国气象局官方网站。","content":"中国气象局作为国务院气象主管机构，为国务院直属事业单位，经国务院授权，承担全国气象工作的政府行政管理职能，负责全国气象工作，主要履行公共气象服务以及气象防灾减灾、应对气候变化、开发利用气候资源、人工影响天气等业务、服务管理等职能。","url":"http://www.cma.gov.cn/","author":null,"published_at":"2021-10-31T13:22:04.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中国气象局","slug":"cma-gov-cn"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_300","title":"中国气象局","description":"中国气象局官方网站。","content":"中国气象局作为国务院气象主管机构，为国务院直属事业单位，经国务院授权，承担全国气象工作的政府行政管理职能，负责全国气象工作，主要履行公共气象服务以及气象防灾减灾、应对气候变化、开发利用气候资源、人工影响天气等业务、服务管理等职能。","url":"http://www.cma.gov.cn/","published_at":"2021-10-31T13:22:04.000Z","tags":[{"name":"政府官网","slug":"gov-official-site"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"中国气象局","slug":"cma-gov-cn"}},
     "staticQueryHashes": ["63159454"]}

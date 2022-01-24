@@ -56,7 +56,7 @@ const SearchMovie = ({ location, data }) => {
             setLoading(false);
           })
           .catch(function (error) {
-            console.log(error);
+            // console.log(error);
             setResults([]);
           })
           .then(function () {

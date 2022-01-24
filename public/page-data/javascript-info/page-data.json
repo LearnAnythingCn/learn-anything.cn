@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/javascript-info",
-    "result": {"data":{"strapiArticles":{"id":"Articles_98","title":"JavaScript教程","description":"涵盖JavaScript 编程语言的所有知识，可免费搜索查询，还有一系列的专题文章。","content":"[JS文档]涵盖JavaScript 编程语言相关知识和浏览器行为，还有一系列的专题文章。","url":"https://zh.javascript.info/","author":null,"published_at":"2021-10-07T09:45:07.000Z","tags":[{"name":"JavaScript","slug":"java-script"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"JavaScript教程","slug":"javascript-info"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_98","title":"JavaScript教程","description":"涵盖JavaScript 编程语言的所有知识，可免费搜索查询，还有一系列的专题文章。","content":"[JS文档]涵盖JavaScript 编程语言相关知识和浏览器行为，还有一系列的专题文章。","url":"https://zh.javascript.info/","published_at":"2021-10-07T09:45:07.000Z","tags":[{"name":"JavaScript","slug":"java-script"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"JavaScript教程","slug":"javascript-info"}},
     "staticQueryHashes": ["63159454"]}

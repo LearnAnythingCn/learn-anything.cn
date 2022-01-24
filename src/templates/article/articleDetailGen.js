@@ -154,9 +154,6 @@ export const queryArticle = graphql`
       description
       content
       url
-      author {
-        name
-      }
       published_at
       tags {
         name
