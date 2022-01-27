@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-article-article-detail-gen-js",
+    "path": "/landrop",
+    "result": {"data":{"strapiArticles":{"id":"Articles_552","title":"电脑手机文件互传","description":"开源且免费的电脑、手机互传文件（视频、照片、文档等）的软件，苹果电脑(macOS)、苹果手机(iPhone)、安卓手机(Android)、Windows系统皆可用。","content":"##### 一、LANDrop\n\n局域网内的电脑、手机相互传送文件（视频、照片、文档等），苹果电脑(macOS)、苹果手机(iPhone)、安卓手机(Android)、Windows系统皆可用，开源且完全免费。\n\n苹果电脑和苹果手机可以用其自带的 隔空投送 软件实现文件的互传，可是无法用于其他系统和手机，LANDrop则可以在所有系统和手机时间进行文件互传。\n\n###### 1、使用方法\n- 需要传输的设备连接在相同局域网内；\n- 在设备上分别安装对应版本的LANDrop软件；\n- 打开LANDrop 即可看到局域网内其他设备，选择文件发送即可。\n\n##### 二、下载\n\n- [软件下载](https://landrop.app/#downloads)\n- [源代码Github](https://github.com/LANDrop)","url":"https://learn-anything.cn/landrop","published_at":"2022-01-27T04:10:27.000Z","tags":[{"name":"软件","slug":"software"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"电脑手机文件互传","slug":"landrop"}},
+    "staticQueryHashes": ["63159454"]}
