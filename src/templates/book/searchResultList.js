@@ -16,7 +16,7 @@ const SearchResultList = ({ query, results, recommendShow }) => {
         results.length > 0 ? (
           <BookTagRow
             tagsData={results}
-            name={"有关 「 " + query + " 」 内容："}
+            name={"有关 「 " + query + " 」 图书："}
           />
 
         ) : (
