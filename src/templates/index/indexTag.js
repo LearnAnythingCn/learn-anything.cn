@@ -22,12 +22,13 @@ const IndexTag = ({ node }) => {
                     <SearchInput />
                 }
                 {
-                    <MovieTagRow
-                        key={movieHotName + "MovieTagRow"}
-                        name={movieHotName}
-                        tagsData={node.allStrapiMovies.nodes}
+                    // 推荐 - hot
+                    <RecommendationTagRowIndex
+                        key={recommendationHot + "RecommendationTagRow"}
+                        name={recommendationHot}
+                        tagsData={node.recoHot.nodes}
                         // more = "/tag/movie-top"
-                        more = "/movie"
+                        more = "/recommendation"
                         style={{ marginTop: 10, backgroundColor: 'white' }}
                     />
                 }
@@ -42,17 +43,6 @@ const IndexTag = ({ node }) => {
                     />
                 }
                 {
-                    // 推荐 - hot
-                    <RecommendationTagRowIndex
-                        key={recommendationHot + "RecommendationTagRow"}
-                        name={recommendationHot}
-                        tagsData={node.recoHot.nodes}
-                        // more = "/tag/movie-top"
-                        more = "/recommendation"
-                        style={{ marginTop: 10, backgroundColor: 'white' }}
-                    />
-                }
-                {
                     // 推荐 - code
                     <RecommendationTagRowIndex
                         key={recommendationCode + "RecommendationTagRow"}
@@ -60,6 +50,16 @@ const IndexTag = ({ node }) => {
                         tagsData={node.recoCode.nodes}
                         // more = "/tag/movie-top"
                         more = "/recommendation"
+                        style={{ marginTop: 10, backgroundColor: 'white' }}
+                    />
+                }
+                {
+                    <MovieTagRow
+                        key={movieHotName + "MovieTagRow"}
+                        name={movieHotName}
+                        tagsData={node.allStrapiMovies.nodes}
+                        // more = "/tag/movie-top"
+                        more = "/movie"
                         style={{ marginTop: 10, backgroundColor: 'white' }}
                     />
                 }
