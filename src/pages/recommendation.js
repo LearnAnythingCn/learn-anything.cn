@@ -18,7 +18,8 @@ const RecommendationPage = ({ data }) => {
   data.allStrapiRecommendations.edges.forEach(element => {
     if(element.node.articles.length>5){
       // 通过索引删除元素
-      element.node.articles.splice(5,element.node.articles.length-1);
+      // element.node.articles.splice(5,element.node.articles.length-1);
+      element.node.articles.splice(0,element.node.articles.length-1-5);
     }
   });
   return (
@@ -37,7 +38,7 @@ export const recommendationsQuery = graphql`
   query recommendationsQuery {
 
     allStrapiRecommendations(
-      sort: {fields: updated_at, order: DESC}
+      sort: {fields: rank, order: ASC}
     ) {
       edges {
         node {
@@ -49,6 +50,7 @@ export const recommendationsQuery = graphql`
             description
             rank
             published_at
+            updated_at
             image {
               localFile {
                 childImageSharp {

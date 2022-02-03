@@ -59,6 +59,7 @@ export const queryRecommendationData = graphql`
               filter: {recommendations: {elemMatch: {slug: {eq: $slug}}}}
               limit: $pageSize
               skip: $skip
+              sort: {fields: updated_at, order: DESC}
             ){
               nodes {
                 recommendations {

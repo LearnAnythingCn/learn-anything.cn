@@ -1,7 +1,7 @@
 import React from "react"
 import z_libImg from "../../images/z_lib.png"
 import lorefreeImg from "../../images/lorefree.jpg"
-import jiumodiaryImg from "../../images/jiumodiary.png"
+// import jiumodiaryImg from "../../images/jiumodiary.png"
 import shadowsocksImg from "../../images/shadowsocks.png"
 import TagPage from "../tag/tagPage"
 
