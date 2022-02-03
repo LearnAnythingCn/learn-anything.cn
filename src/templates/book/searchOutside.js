@@ -23,12 +23,12 @@ const SearchOutside = ({ search }) => {
     lorefree.url = "https://ebook2.lorefree.com/site/index?s=" + search;
     results.push(lorefree);
 
-    let jiumodiary = {};
-    jiumodiary.title = "鸠摩";
-    jiumodiary.desc = "中文电子书搜索引擎，提供中文电子图书搜索和免费下载。";
-    jiumodiary.imgLocal = jiumodiaryImg;
-    jiumodiary.url = "https://www.jiumodiary.com/";
-    results.push(jiumodiary);
+    // let jiumodiary = {};
+    // jiumodiary.title = "鸠摩";
+    // jiumodiary.desc = "中文电子书搜索引擎，提供中文电子图书搜索和免费下载。";
+    // jiumodiary.imgLocal = jiumodiaryImg;
+    // jiumodiary.url = "https://www.jiumodiary.com/";
+    // results.push(jiumodiary);
 
     let shadowsocks = {};
     shadowsocks.title = "shadowsocks";
