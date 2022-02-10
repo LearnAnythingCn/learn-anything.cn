@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/pdfdrive",
-    "result": {"data":{"strapiArticles":{"id":"Articles_42","title":"pdfdrive","description":"超过一亿本英文电子书，PDF格式，不用注册即可免费下载，可预览。","content":"免费下载超过一亿本英文电子书（pdf格式），不用注册即可下载，可预览。【需要梯子】","url":"https://www.pdfdrive.com/","published_at":"2021-09-18T05:10:26.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"pdfdrive","slug":"pdfdrive"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_42","title":"pdfdrive","description":"超过一亿本英文电子书，PDF格式，不用注册即可免费下载，可预览。","content":"免费下载超过一亿本英文电子书（pdf格式），不用注册即可下载，可预览。【需要梯子】","url":"https://www.pdfdrive.com/","published_at":"2021-09-18T05:10:26.000Z","tags":[{"name":"中英文电子书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"pdfdrive","slug":"pdfdrive"}},
     "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/zh-ng1lib",
-    "result": {"data":{"strapiArticles":{"id":"Articles_537","title":"Z-Library(中文)","description":"免费下载中文电子书，格式包括pdf、epub等。免费账户每天限量5本。","content":"###### 一、简介\n免费下载中文电子书，格式包括pdf、epub等。免费账户每天限量5本。\n\n关键词：数字图书馆、搜索书籍、免费下载书籍 | Z-Library. Download books for free. Find books","url":"https://zh.ng1lib.org/","published_at":"2022-01-03T11:03:08.000Z","tags":[{"name":"中文书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Z-Library(中文)","slug":"zh-ng1lib"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_537","title":"Z-Library","description":"免费下载中英文电子书，格式包括pdf、epub等。免费账户每天限量5本。","content":"###### 一、简介\n免费下载中文电子书，格式包括pdf、epub等。免费账户每天限量5本。\n\n关键词：数字图书馆、搜索书籍、免费下载书籍 | Z-Library. Download books for free. Find books","url":"https://zh.ng1lib.org/","published_at":"2022-01-03T11:03:08.000Z","tags":[{"name":"中英文电子书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"Z-Library","slug":"zh-ng1lib"}},
     "staticQueryHashes": ["63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/manybooks",
-    "result": {"data":{"strapiArticles":{"id":"Articles_43","title":"manybooks","description":"超过5万本英文电子书免费下载，PDF格式，书籍质量高，类似豆瓣有评论和评分。","content":"超过5万本英文电子书免费下载（pdf格式），书籍质量高，类似豆瓣有评论和评分。","url":"https://manybooks.net/","published_at":"2021-09-18T05:15:30.000Z","tags":[{"name":"英文书","slug":"e-book-english"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"manybooks","slug":"manybooks"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_43","title":"manybooks","description":"超过5万本英文电子书免费下载，PDF格式，书籍质量高，类似豆瓣有评论和评分。","content":"超过5万本英文电子书免费下载（pdf格式），书籍质量高，类似豆瓣有评论和评分。","url":"https://manybooks.net/","published_at":"2021-09-18T05:15:30.000Z","tags":[{"name":"中英文电子书","slug":"e-book-chinese"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"manybooks","slug":"manybooks"}},
     "staticQueryHashes": ["63159454"]}
