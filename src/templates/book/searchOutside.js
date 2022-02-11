@@ -3,6 +3,8 @@ import z_libImg from "../../images/z_lib.png"
 import lorefreeImg from "../../images/lorefree.jpg"
 // import jiumodiaryImg from "../../images/jiumodiary.png"
 import shadowsocksImg from "../../images/shadowsocks.png"
+import pdfdriveImg from "../../images/pdfdrive.webp"
+
 import TagPage from "../tag/tagPage"
 
 const SearchOutside = ({ search }) => {
@@ -15,6 +17,13 @@ const SearchOutside = ({ search }) => {
     z_lib.imgLocal = z_libImg;
     z_lib.url = "https://zh.ng1lib.org/s/" + search;
     results.push(z_lib);
+
+    let pdfdrive = {};
+    pdfdrive.title = "PDF DRIVE";
+    pdfdrive.desc = "免费下载超过一亿本英文电子书，不用注册即可下载。";
+    pdfdrive.imgLocal = pdfdriveImg;
+    pdfdrive.url = "https://www.pdfdrive.com/search?q=" + search;
+    results.push(pdfdrive);
 
     let lorefree = {};
     lorefree.title = "lorefree";

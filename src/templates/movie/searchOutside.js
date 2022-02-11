@@ -3,6 +3,8 @@ import ddrkImg from "../../images/ddrk.png"
 import newfiiImg from "../../images/newfii.png"
 import yanetflixImg from "../../images/yanetflix.png"
 import shadowsocksImg from "../../images/shadowsocks.png"
+import smdyyImg from "../../images/smdyy.webp"
+
 import TagPage from "../tag/tagPage"
 
 const SearchOutside = ({ search }) => {
@@ -16,6 +18,13 @@ const SearchOutside = ({ search }) => {
     ddrk.url = "https://ddrk.me/";
     results.push(ddrk);
 
+    let smdyy = {};
+    smdyy.title = "神马影院";
+    smdyy.desc = "免费在线观看高清热门电影、韩剧、美剧等，速度快，无广告。";
+    smdyy.imgLocal = smdyyImg;
+    smdyy.url = "https://www.smdyy.cc/search.html?wd=" + search;
+    results.push(smdyy);
+    
     let newfii = {};
     newfii.title = "奈飞中文电影";
     newfii.desc = "免费在线观看奈飞电影、电视剧、动漫、综艺，高清速度快！";

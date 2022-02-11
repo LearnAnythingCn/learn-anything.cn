@@ -5,6 +5,8 @@ import ddrkImg from "../../images/ddrk.png"
 import newfiiImg from "../../images/newfii.png"
 import yanetflixImg from "../../images/yanetflix.png"
 import shadowsocksImg from "../../images/shadowsocks.png"
+import pdfdriveImg from "../../images/pdfdrive.webp"
+import smdyyImg from "../../images/smdyy.webp"
 
 const SearchOutside = ({search}) => {
 
@@ -17,12 +19,26 @@ const SearchOutside = ({search}) => {
     z_lib.url = "https://zh.ng1lib.org/s/" + search;
     results.push(z_lib);
 
+    let pdfdrive = {};
+    pdfdrive.title = "PDF DRIVE";
+    pdfdrive.desc = "免费下载超过一亿本英文电子书，不用注册即可下载。";
+    pdfdrive.imgLocal = pdfdriveImg;
+    pdfdrive.url = "https://www.pdfdrive.com/search?q=" + search;
+    results.push(pdfdrive);
+
     let ddrk = {};
     ddrk.title = "低端影视";
     ddrk.desc = "超清在线视频网站（电视剧、电影、美剧、日剧、韩剧、新番、动画等），速度很快。";
     ddrk.imgLocal = ddrkImg;
     ddrk.url = "https://ddrk.me/";
     results.push(ddrk);
+
+    let smdyy = {};
+    smdyy.title = "神马影院";
+    smdyy.desc = "免费在线观看高清热门电影、韩剧、美剧等，速度快，无广告。";
+    smdyy.imgLocal = smdyyImg;
+    smdyy.url = "https://www.smdyy.cc/search.html?wd=" + search;
+    results.push(smdyy);
 
     let newfii = {};
     newfii.title = "奈飞中文电影";
