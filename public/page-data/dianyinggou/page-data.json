@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-article-article-detail-gen-js",
     "path": "/dianyinggou",
-    "result": {"data":{"strapiArticles":{"id":"Articles_127","title":"电影狗搜索","description":"通过电影名、演员、导演、电视剧、动漫等关键词，直达电影资源站，让电影搜索更高效、更便捷、更精准！","content":"电影狗，专业的电影搜索引擎网站；用户通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，让电影搜索更高效、更便捷、更精准！","url":"https://www.dianyinggou.com/","published_at":"2021-10-19T11:12:17.000Z","tags":[{"name":"电影搜索","slug":"movie-search"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"电影狗搜索","slug":"dianyinggou"}},
+    "result": {"data":{"strapiArticles":{"id":"Articles_127","title":"电影狗搜索","description":"通过电影名、演员、导演、电视剧、动漫等关键词，直达电影资源站，让电影搜索更高效、更便捷、更精准！","content":"电影狗，专业的电影搜索引擎网站；用户通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，让电影搜索更高效、更便捷、更精准！","url":"https://www.dianyinggou.com/","published_at":"2021-10-19T11:12:17.000Z","tags":[{"name":"其他","slug":"movie-other"}]},"site":{"siteMetadata":{"title":"收集优质资源","author":"@learn-anything.cn","description":"追求极简语言，说明事物因果！","email":"lh@learn-anything.cn"}}},"pageContext":{"title":"电影狗搜索","slug":"dianyinggou"}},
     "staticQueryHashes": ["63159454"]}
