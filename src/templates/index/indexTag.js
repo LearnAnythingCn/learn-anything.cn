@@ -65,6 +65,14 @@ const IndexTag = ({ node }) => {
                 }
                 {
                     node.allStrapiTagParents.edges.map(element => {
+
+                         // 按照 updated_at 进行降序排序
+                         element.node.tags.sort(function (a, b) {
+                            // return (new Date(b.updated_at) - new Date(a.updated_at))
+                            return (a.rank - b.rank)
+                        });
+
+
                         return (
                             <IndexTagRow
                                 key={element.node.name + "ComputerLabelItem"}
