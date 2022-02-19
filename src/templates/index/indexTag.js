@@ -12,7 +12,7 @@ const { Content } = Layout;
 
 const IndexTag = ({ node }) => {
 
-    let movieHotName = "百万人好评", bookHotName = "心理学", 
+    let movieHotName = "最近更新 - 电影", bookHotName = "最近更新 - 图书", 
         recommendationHot = "推荐", recommendationCode = "编程";
 
     return (

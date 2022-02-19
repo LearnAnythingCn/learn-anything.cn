@@ -48,7 +48,6 @@ export const pageQueryAll = graphql`
     }
 
     allStrapiBooks(
-      filter: {book_tags: {elemMatch: {slug: {eq: "psychology"}}}}
       limit: 8
       sort: {fields: updated_at, order: DESC}
     ) {
@@ -66,7 +65,6 @@ export const pageQueryAll = graphql`
     }
 
     allStrapiMovies(
-      filter: {movie_tags: {elemMatch: {slug: {eq: "good-reputation-100w"}}}}
       limit: 8
       sort: {fields: updated_at, order: DESC}
     ) {
@@ -137,3 +135,48 @@ export const pageQueryAll = graphql`
       }
     }
   }`
+
+
+
+/* 查询心理学最新图书
+
+  allStrapiBooks(
+    filter: {book_tags: {elemMatch: {slug: {eq: "psychology"}}}}
+    limit: 8
+    sort: {fields: updated_at, order: DESC}
+  ) {
+    nodes {
+      slug
+      title
+      image {
+        localFile {
+          childImageSharp {
+            gatsbyImageData(width: 100, height:140)
+          }
+        }
+      }
+    }
+  }
+  */
+
+
+  /* 查询高分电影
+
+  allStrapiMovies(
+      filter: {movie_tags: {elemMatch: {slug: {eq: "good-reputation-100w"}}}}
+      limit: 8
+      sort: {fields: updated_at, order: DESC}
+    ) {
+      nodes {
+        slug
+        title
+        image {
+          localFile {
+            childImageSharp {
+              gatsbyImageData(width: 100, height:140)
+            }
+          }
+        }
+      }
+    }
+  */
